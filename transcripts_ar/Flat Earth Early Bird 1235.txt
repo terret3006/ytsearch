@@ -1,0 +1,6743 @@
+Video URL: https://www.youtube.com/watch?v=s2kzRKMQG74
+
+5.96 --> 28.859
+[Music]
+
+28.88 --> 31.84
+so
+
+32.47 --> 37.25
+[Music]
+
+69.119 --> 72.88
+good
+
+70.479 --> 75.439
+morning welcome to flutter the early
+
+72.88 --> 77.759
+bird number 1235
+
+75.439 --> 79.83999999999999
+i'm your host arwyn and before i start
+
+77.759 --> 82.56
+the show please don't forget to share it
+
+79.84 --> 84.799
+on any platform you deem fit and if you
+
+82.56 --> 86.56
+haven't already subscribe to my channel
+
+84.799 --> 88.96000000000001
+hit the bell notification
+
+86.56 --> 90.799
+so you know when i'm going live which is
+
+88.96 --> 93.03999999999999
+normally 1 p.m amsterdam time in the
+
+90.799 --> 94.0
+weekdays and 2 p.m amsterdam time in the
+
+93.04 --> 96.799
+weekend
+
+94.0 --> 99.04
+please also do support me through paypal
+
+96.799 --> 102.799
+patreon super chat and membership system
+
+99.04 --> 105.60000000000001
+join button they'll be much appreciated
+
+102.799 --> 106.64
+always use it
+
+105.6 --> 108.55999999999999
+so
+
+106.64 --> 110.72
+whether today is
+
+108.56 --> 112.96000000000001
+turn around
+
+110.72 --> 112.96
+it's
+
+113.28 --> 116.64
+astoundingly beautiful
+
+117.759 --> 120.479
+and warm
+
+120.56 --> 126.159
+clear skies
+
+123.04 --> 128.64000000000001
+a couple of fluffy clouds
+
+126.159 --> 130.87900000000002
+i see like a slither of the moon right
+
+128.64 --> 133.76
+there but i don't think that the webcam
+
+130.879 --> 133.76
+can pick that up
+
+135.68 --> 137.92000000000002
+but
+
+138.08 --> 140.0
+yeah
+
+139.04 --> 141.51999999999998
+it's
+
+140.0 --> 145.2
+beautiful
+
+141.52 --> 145.20000000000002
+warm not that windy
+
+148.72 --> 151.92
+still a bit of moist in here but
+
+151.12 --> 154.64000000000001
+yeah
+
+151.92 --> 159.35999999999999
+with all that sun it's just
+
+154.64 --> 163.44
+it's nice oh and here comes buddhists
+
+159.36 --> 163.44000000000003
+making their rounds past here
+
+165.76 --> 168.959
+i don't know if you can see that
+
+167.12 --> 172.4
+[Music]
+
+168.959 --> 172.4
+walking on the street right there
+
+173.92 --> 178.95899999999997
+cars two guys fixing their car there
+
+176.72 --> 182.44
+i've been trying that for like
+
+178.959 --> 182.44
+a week now
+
+185.66 --> 189.099
+[Music]
+
+194.159 --> 198.959
+hello crockett first in chat
+
+196.8 --> 204.76000000000002
+good to see you
+
+198.959 --> 204.76
+it is friday the 6th of may 2022
+
+207.12 --> 212.31900000000002
+and yeah there's gonna be plenty to talk
+
+209.44 --> 215.519
+about
+
+212.319 --> 215.51899999999998
+check the weather first
+
+217.04 --> 223.12
+it's 90 degrees celsius right
+
+220.0 --> 223.12
+that feels about right
+
+224.0 --> 228.319
+but 55 percent humidity
+
+230.319 --> 234.79899999999998
+right
+
+232.64 --> 238.48
+apjc net
+
+234.799 --> 238.48000000000002
+jeff gas head good to see you
+
+239.36 --> 245.12
+so yeah yesterday letter of debate
+
+243.36 --> 247.92000000000002
+great
+
+245.12 --> 247.92000000000002
+great show
+
+248.319 --> 254.39999999999998
+everybody was like
+
+250.4 --> 256.32
+informed like even new wasn't rumpassy
+
+254.4 --> 257.919
+like and that's like whoa
+
+256.32 --> 259.68
+dude
+
+257.919 --> 261.59999999999997
+everybody has energy
+
+259.68 --> 263.919
+yet neil is not rumpacy it's like a
+
+261.6 --> 267.12
+miracle and he knows
+
+263.919 --> 269.52
+he said it himself
+
+267.12 --> 271.6
+uh
+
+269.52 --> 272.56
+but yeah great show
+
+271.6 --> 274.96000000000004
+nathan
+
+272.56 --> 277.68
+after show lasted incredibly long it was
+
+274.96 --> 279.19899999999996
+an over four hour show altogether over
+
+277.68 --> 281.12
+four hours just
+
+279.199 --> 284.639
+poof
+
+281.12 --> 287.919
+nathan was really grinding down on
+
+284.639 --> 287.919
+was it this was it
+
+288.88 --> 293.04
+it was
+
+289.759 --> 294.96000000000004
+it was a couple of guys
+
+293.04 --> 298.32
+same i think that the guy that was
+
+294.96 --> 299.84
+talking about molten buildings
+
+298.32 --> 301.68
+being mountains
+
+299.84 --> 304.4
+was in there too
+
+301.68 --> 308.16
+and ether and it just nathan just kept
+
+304.4 --> 308.15999999999997
+going going and going going
+
+308.96 --> 313.59999999999997
+so yeah
+
+311.52 --> 315.52
+some of you may enjoy that watching that
+
+313.6 --> 320.08000000000004
+back
+
+315.52 --> 322.639
+it's getting very hard very strict
+
+320.08 --> 326.15999999999997
+and yeah the opposition just getting
+
+322.639 --> 329.28000000000003
+belligerent and childish
+
+326.16 --> 331.12
+right it's really palpable
+
+329.28 --> 332.4
+i mean those moments are fascinating to
+
+331.12 --> 335.759
+me because
+
+332.4 --> 337.52
+it just reminds me of how i
+
+335.759 --> 341.039
+tended to be
+
+337.52 --> 343.12
+halfway when it was much younger like
+
+341.039 --> 344.88
+when my parents or my brother was trying
+
+343.12 --> 346.72
+to explain me something and i wouldn't
+
+344.88 --> 350.56
+accept it
+
+346.72 --> 350.56
+i would get that belligerent and
+
+351.039 --> 356.479
+it's like i'm really sorry that they
+
+353.28 --> 359.44
+couldn't sit through that eventually
+
+356.479 --> 363.75899999999996
+because it was such it was just really
+
+359.44 --> 368.0
+productive for me to get those moments
+
+363.759 --> 370.47900000000004
+and face that and be tested
+
+368.0 --> 370.479
+it's like
+
+372.72 --> 376.96000000000004
+i don't know if it's yeah it just
+
+374.72 --> 378.88000000000005
+reminds me of that i mean this is a
+
+376.96 --> 382.15999999999997
+different situation that these people
+
+378.88 --> 384.0
+are supposedly adults
+
+382.16 --> 387.84000000000003
+and
+
+384.0 --> 387.84
+i don't know if it's the same to them
+
+388.88 --> 393.84
+right but i definitely get out of those
+
+391.52 --> 396.79999999999995
+get something out of those grindings
+
+393.84 --> 396.79999999999995
+when nathan does it
+
+396.96 --> 401.039
+uh hey seeking star water mike sadoonich
+
+399.84 --> 404.479
+kevin k
+
+401.039 --> 404.479
+flatter sage good to see you
+
+404.88 --> 409.039
+right so yeah also yesterday
+
+408.0 --> 410.4
+uh
+
+409.039 --> 413.039
+through
+
+410.4 --> 416.0
+one of david weiss's channel was it the
+
+413.039 --> 416.0
+the app channel
+
+417.68 --> 424.40000000000003
+let me see
+
+419.919 --> 426.479
+ladder of the sun moon zodiac clock app
+
+424.4 --> 428.31899999999996
+channel
+
+426.479 --> 431.84
+it's david weiss yeah there was a full
+
+428.319 --> 434.0
+premiere of the next level
+
+431.84 --> 436.4
+and yeah watch the
+
+434.0 --> 439.68
+biggest part of that
+
+436.4 --> 442.23999999999995
+but there's gonna be a whole bunch of
+
+439.68 --> 442.24
+ruckus
+
+442.639 --> 445.28000000000003
+because
+
+445.36 --> 450.99
+yeah
+
+447.039 --> 452.4
+ether ether ether
+
+450.99 --> 454.319
+[Music]
+
+452.4 --> 456.23999999999995
+what's in there
+
+454.319 --> 457.12
+as well
+
+456.24 --> 458.56
+and
+
+457.12 --> 459.28000000000003
+yeah
+
+458.56 --> 461.68
+like
+
+459.28 --> 464.63899999999995
+little moments that just rub
+
+461.68 --> 465.919
+a lot of flat earth debaters very wrong
+
+464.639 --> 468.40000000000003
+it's
+
+465.919 --> 470.639
+like david white saying that
+
+468.4 --> 474.31899999999996
+the rotation of bob's ring laser
+
+470.639 --> 477.319
+gyroscope proves ether rotation right
+
+474.319 --> 477.319
+now
+
+478.08 --> 481.68
+a general statement
+
+482.0 --> 487.919
+writer as a speculative statement that
+
+484.8 --> 490.08
+would have been like yeah okay but the
+
+487.919 --> 492.15999999999997
+way he said it was just like no it's the
+
+490.08 --> 494.56
+ether and yeah that's going to be a
+
+492.16 --> 494.56
+problem
+
+494.879 --> 498.40000000000003
+also of course some
+
+498.879 --> 502.879
+literal position reification issues but
+
+501.84 --> 504.0
+yeah that's
+
+502.879 --> 505.199
+that
+
+504.0 --> 507.44
+like
+
+505.199 --> 509.28000000000003
+that's just really tough like even
+
+507.44 --> 510.8
+nathan oakley is going to give them a
+
+509.28 --> 512.399
+break for that
+
+510.8 --> 515.2
+because it's just yeah physicality
+
+512.399 --> 518.56
+assumption bias is a [ __ ] it really is
+
+515.2 --> 521.36
+a [ __ ] to a whole bunch of people right
+
+518.56 --> 523.4399999999999
+and at least it will give like a
+
+521.36 --> 525.44
+a
+
+523.44 --> 527.36
+a counter narrative
+
+525.44 --> 529.7600000000001
+to the sun being all those millions of
+
+527.36 --> 531.2
+miles away which is ridiculous
+
+529.76 --> 532.959
+right
+
+531.2 --> 534.9590000000001
+but yeah the ether is going to be a bit
+
+532.959 --> 537.68
+of a problem other than that by the way
+
+534.959 --> 540.7199999999999
+i i thought i didn't let it
+
+537.68 --> 543.76
+ruin it for me
+
+540.72 --> 546.399
+and i thought that the rest of the whole
+
+543.76 --> 549.519
+video was yeah it was okay
+
+546.399 --> 552.24
+it seemed a bit
+
+549.519 --> 555.12
+virtue signally though in a way a little
+
+552.24 --> 558.88
+bit weird maybe but
+
+555.12 --> 561.6
+good imagery basic arguments
+
+558.88 --> 564.48
+that were laid out very well with good
+
+561.6 --> 566.08
+footage support
+
+564.48 --> 567.12
+and
+
+566.08 --> 569.279
+yeah
+
+567.12 --> 571.279
+except for the the ether
+
+569.279 --> 574.64
+part and even that wasn't all that
+
+571.279 --> 574.64
+egregious it's just that
+
+574.8 --> 579.279
+yeah you know what i mean
+
+577.36 --> 580.16
+so overall i thought that wasn't that
+
+579.279 --> 581.36
+bad
+
+580.16 --> 583.12
+right
+
+581.36 --> 586.5600000000001
+i mean it's better than beyond the
+
+583.12 --> 586.5600000000001
+imaginary curve for sure
+
+587.6 --> 593.839
+and yeah it was very much like level
+
+590.64 --> 596.959
+it's like level one and a half just
+
+593.839 --> 596.9590000000001
+a bit more into it
+
+597.519 --> 605.16
+right so have any of you seen that video
+
+600.8 --> 605.16
+i'll link you up if you haven't
+
+606.399 --> 610.56
+because there is a whole lot of people
+
+608.56 --> 613.76
+that are gonna see this
+
+610.56 --> 613.76
+including newbies
+
+615.76 --> 619.8389999999999
+so i think i'll just link you guys up
+
+622.24 --> 625.92
+it's one hour 20 minutes
+
+630.88 --> 634.48
+all right now let's see what you guys
+
+632.72 --> 636.72
+are chatting about
+
+634.48 --> 636.72
+uh
+
+639.6 --> 643.0400000000001
+the mountain claim
+
+644.56 --> 650.399
+right yeah there was one part in the
+
+646.56 --> 652.4799999999999
+movie specifically that i really liked
+
+650.399 --> 654.88
+why did i like it because
+
+652.48 --> 657.519
+they try to do it kind of like how i try
+
+654.88 --> 660.48
+to do it they try to explain the horizon
+
+657.519 --> 663.76
+and why it's not geometric and
+
+660.48 --> 666.72
+even like using hand visuals like i
+
+663.76 --> 668.959
+typically like to do
+
+666.72 --> 670.48
+like how it folds into the right so they
+
+668.959 --> 672.56
+kind of used
+
+670.48 --> 675.6
+while they used my vernacular it's not
+
+672.56 --> 677.92
+my vernaculars or wins no it's just the
+
+675.6 --> 680.9590000000001
+vernacular that i use because i think
+
+677.92 --> 683.279
+that it works the best
+
+680.959 --> 685.3599999999999
+they've assimilated it and yeah that
+
+683.279 --> 687.519
+makes me feel good because that's an
+
+685.36 --> 688.72
+effective way to help people understand
+
+687.519 --> 692.5600000000001
+that part
+
+688.72 --> 692.5600000000001
+right so there's some good in this movie
+
+698.0 --> 701.92
+i mean that the horizon part i was
+
+700.079 --> 704.399
+really like that gave me a smile like
+
+701.92 --> 706.8
+yeah yeah that's how i try to explain it
+
+704.399 --> 708.32
+it's really difficult it is difficult
+
+706.8 --> 710.88
+but
+
+708.32 --> 712.5600000000001
+i mean you can
+
+710.88 --> 716.959
+hand
+
+712.56 --> 718.6389999999999
+motions really do help people assist
+
+716.959 --> 720.079
+trying to size up what they're looking
+
+718.639 --> 724.8
+at
+
+720.079 --> 726.88
+and they can then compare that to like
+
+724.8 --> 729.1999999999999
+flying footage going like straight at
+
+726.88 --> 731.04
+the horizon and seeing what happens and
+
+729.2 --> 733.519
+even if you like reverse the footage
+
+731.04 --> 734.88
+like what is it you're actually seeing
+
+733.519 --> 738.16
+right
+
+734.88 --> 740.959
+it helps with all that to really get it
+
+738.16 --> 743.36
+into people's head to want to understand
+
+740.959 --> 747.1199999999999
+how the horizon isn't geometric and how
+
+743.36 --> 751.12
+things basically visually fall into it
+
+747.12 --> 751.12
+as they disappear into the horizon
+
+751.44 --> 756.8000000000001
+all right so yeah that was good
+
+754.48 --> 759.6800000000001
+hello slo-mo moon buggy good to see you
+
+756.8 --> 763.7199999999999
+you agree with my assessment alright
+
+759.68 --> 763.7199999999999
+you saw it too i take it
+
+764.39 --> 767.4499999999999
+[Music]
+
+775.839 --> 780.0
+got loads to watch yet
+
+777.68 --> 780.0
+all right
+
+780.32 --> 785.0400000000001
+yeah it is one hour 20 minutes but yeah
+
+782.88 --> 788.16
+i was just
+
+785.04 --> 790.639
+i know it went premiering live and when
+
+788.16 --> 793.04
+something premieres live there's a live
+
+790.639 --> 795.44
+chat i'm much more inclined to actually
+
+793.04 --> 798.399
+watch it then because i can give live
+
+795.44 --> 801.2
+feedback to it as i'm going right there
+
+798.399 --> 803.04
+test a bit of the waters like see
+
+801.2 --> 805.6
+if they're going to be like oh no not
+
+803.04 --> 808.639
+irwin or something and i wasn't bad on
+
+805.6 --> 811.12
+his i didn't get any slaps
+
+808.639 --> 813.519
+or any like i don't know
+
+811.12 --> 815.68
+angry bobs getting in my way trying to
+
+813.519 --> 817.2
+get me out of the way
+
+815.68 --> 819.4399999999999
+even though i was
+
+817.2 --> 820.88
+kind of myself just being very honest
+
+819.44 --> 822.32
+and critical
+
+820.88 --> 825.6
+not trying to
+
+822.32 --> 827.839
+be too rude like oh you're why won't you
+
+825.6 --> 829.76
+just get it or something like that
+
+827.839 --> 832.639
+wasn't like that at all
+
+829.76 --> 834.959
+straight to the point
+
+832.639 --> 837.44
+and yeah it was a
+
+834.959 --> 839.92
+it was interesting
+
+837.44 --> 839.9200000000001
+to watch
+
+840.639 --> 844.16
+and yeah i even got a couple of people
+
+842.48 --> 846.16
+in there
+
+844.16 --> 847.36
+advertising for my show and i was like
+
+846.16 --> 849.68
+oh hey
+
+847.36 --> 852.24
+was it that flat fellow
+
+849.68 --> 853.8389999999999
+was in there like oh arwen has a show
+
+852.24 --> 856.639
+watch his show
+
+853.839 --> 858.1600000000001
+he interacts with chad like yeah thanks
+
+856.639 --> 861.6800000000001
+man
+
+858.16 --> 861.68
+that was an unexpected bonus
+
+865.44 --> 871.12
+right that's all pretty cool
+
+868.48 --> 874.0
+i mean yeah there's issues right there's
+
+871.12 --> 877.92
+technical issues like
+
+874.0 --> 879.76
+academic technical issues with the ether
+
+877.92 --> 882.0
+and for me
+
+879.76 --> 884.079
+on a more philosophical note it's more
+
+882.0 --> 886.959
+difficult
+
+884.079 --> 889.199
+sun position reification
+
+886.959 --> 891.5999999999999
+but other than that it was i thought it
+
+889.199 --> 894.56
+was great it was like that's something
+
+891.6 --> 896.399
+i'm okay with like going around
+
+894.56 --> 898.4799999999999
+and yeah there will be a lot of people
+
+896.399 --> 900.959
+like what about ether what about either
+
+898.48 --> 902.24
+we can deal with either dude we've dealt
+
+900.959 --> 903.76
+with the ball
+
+902.24 --> 905.199
+we've dealt with the curvature
+
+903.76 --> 908.399
+calculator
+
+905.199 --> 910.16
+with terrestrial refraction
+
+908.399 --> 913.92
+right
+
+910.16 --> 916.16
+with with all these things with gravity
+
+913.92 --> 917.8389999999999
+we've dealt with it we can deal with
+
+916.16 --> 920.079
+ether
+
+917.839 --> 920.0790000000001
+right
+
+920.24 --> 926.8
+i can deal with it i mean i am much less
+
+923.04 --> 928.3199999999999
+allergic to ether than like nathan is in
+
+926.8 --> 930.399
+qe
+
+928.32 --> 933.12
+i still think it's an aberration though
+
+930.399 --> 935.199
+right but hey i i like to screw around
+
+933.12 --> 936.72
+with gravity even right i understand
+
+935.199 --> 939.68
+gravity i understand the mistakes i
+
+936.72 --> 942.0790000000001
+understand how people dwell on it
+
+939.68 --> 945.04
+right i understand how
+
+942.079 --> 948.16
+newtonian gravity was essential
+
+945.04 --> 951.04
+an essential fundamental ingredient
+
+948.16 --> 953.36
+for the heliocentric model framework
+
+951.04 --> 955.04
+can't really work without it like all
+
+953.36 --> 957.759
+these things i understand about it like
+
+955.04 --> 960.7199999999999
+i'm almost like a historical catalog for
+
+957.759 --> 961.92
+what it is and what it does
+
+960.72 --> 963.759
+so
+
+961.92 --> 966.16
+we can deal with ether i can deal with
+
+963.759 --> 970.639
+ether
+
+966.16 --> 971.8389999999999
+and hey maybe a whole ether hassle maybe
+
+970.639 --> 974.639
+i could kind of
+
+971.839 --> 976.8000000000001
+use that as a little
+
+974.639 --> 978.48
+as a as a pedestal
+
+976.8 --> 979.4399999999999
+to stand on
+
+978.48 --> 982.88
+and
+
+979.44 --> 986.24
+address a couple of issues with lights
+
+982.88 --> 987.92
+like how i don't think it is a
+
+986.24 --> 990.0
+a particle
+
+987.92 --> 993.04
+with a minimal size that that's just
+
+990.0 --> 995.199
+convention based and my tests
+
+993.04 --> 997.36
+in order to prove or disprove that
+
+995.199 --> 998.959
+assertion
+
+997.36 --> 1000.0790000000001
+and yeah
+
+998.959 --> 1003.7589999999999
+i'll
+
+1000.079 --> 1003.7589999999999
+have more potential
+
+1003.92 --> 1008.88
+people that might be interested in
+
+1007.279 --> 1011.12
+i don't know
+
+1008.88 --> 1013.12
+doing that or
+
+1011.12 --> 1015.36
+getting a group together figuring out
+
+1013.12 --> 1018.079
+how to do that or getting sponsorship
+
+1015.36 --> 1019.759
+for i don't know arkham lasers to test
+
+1018.079 --> 1022.079
+it
+
+1019.759 --> 1023.6800000000001
+are gone sorry
+
+1022.079 --> 1025.4389999999999
+so
+
+1023.68 --> 1028.319
+see
+
+1025.439 --> 1030.3190000000002
+it's just whatever happens you got it
+
+1028.319 --> 1032.319
+you're gonna have to live with it why
+
+1030.319 --> 1034.079
+not try to figure out how to do
+
+1032.319 --> 1037.72
+something productive with it when it's
+
+1034.079 --> 1037.72
+gonna happen anyway
+
+1042.72 --> 1046.88
+ether shouldn't dismiss the overwhelming
+
+1044.799 --> 1048.799
+evidence against the yeah but eve look
+
+1046.88 --> 1050.3200000000002
+kevin k even
+
+1048.799 --> 1053.12
+globers
+
+1050.32 --> 1054.72
+have a place for ether even people that
+
+1053.12 --> 1056.559
+stick to the globe
+
+1054.72 --> 1059.28
+are still very much
+
+1056.559 --> 1060.6399999999999
+inclined to dabble in thinking about
+
+1059.28 --> 1063.44
+ether and like
+
+1060.64 --> 1065.8400000000001
+what are all these patterns
+
+1063.44 --> 1068.0
+why is it so suggestive that that it's
+
+1065.84 --> 1070.3999999999999
+like waves and we treat it like waves
+
+1068.0 --> 1074.559
+but it isn't waves and
+
+1070.4 --> 1076.16
+right that's fascinating to people
+
+1074.559 --> 1077.84
+that that like
+
+1076.16 --> 1079.44
+to understand things
+
+1077.84 --> 1082.799
+so
+
+1079.44 --> 1084.96
+it's not a flat earth thing it's just
+
+1082.799 --> 1086.8799999999999
+that a lot of flat earthers they've
+
+1084.96 --> 1089.1200000000001
+dealt with all the machinations of the
+
+1086.88 --> 1092.48
+globe to a certain degree
+
+1089.12 --> 1095.1999999999998
+and now ether is like the next on the
+
+1092.48 --> 1097.28
+menu for them to
+
+1095.2 --> 1101.1200000000001
+to wrestle with
+
+1097.28 --> 1103.6
+even though it is sort of separate from
+
+1101.12 --> 1105.76
+the philosophical debate between the
+
+1103.6 --> 1108.0
+earth shapes
+
+1105.76 --> 1110.24
+right it's not directly connected to
+
+1108.0 --> 1110.24
+that
+
+1114.08 --> 1118.08
+all right it's just it happens to be on
+
+1116.48 --> 1122.16
+the mind of a whole bunch of people and
+
+1118.08 --> 1125.4399999999998
+they're it's being played into
+
+1122.16 --> 1129.24
+ken wheeler of course the
+
+1125.44 --> 1129.24
+ethereal wizards
+
+1139.679 --> 1144.5590000000002
+oh right yeah the child seeing
+
+1142.24 --> 1147.1200000000001
+the guys think yeah
+
+1144.559 --> 1149.52
+yeah though the whole part about oh the
+
+1147.12 --> 1152.3999999999999
+lands beyond how would that change ever
+
+1149.52 --> 1154.4
+that's just that's the same in 2015
+
+1152.4 --> 1158.5590000000002
+nonsense
+
+1154.4 --> 1159.52
+i agree it's like oh if only we all get
+
+1158.559 --> 1161.6
+over
+
+1159.52 --> 1163.44
+you become a flat earther and we all
+
+1161.6 --> 1165.28
+decide we do this then everything's
+
+1163.44 --> 1167.52
+gonna change yeah that is magical
+
+1165.28 --> 1169.36
+thinking
+
+1167.52 --> 1171.44
+it's not real it's not actually gonna
+
+1169.36 --> 1174.8799999999999
+happen
+
+1171.44 --> 1174.88
+like it wouldn't work like that
+
+1175.12 --> 1182.08
+the real key is to actually like
+
+1178.64 --> 1184.5590000000002
+the re the best message would be
+
+1182.08 --> 1188.08
+stop getting carried away with things
+
+1184.559 --> 1190.3999999999999
+that are said by liars
+
+1188.08 --> 1194.0
+and they use things that are provably
+
+1190.4 --> 1196.799
+lies step away from that and focus
+
+1194.0 --> 1198.64
+on like what's real try to forget about
+
+1196.799 --> 1201.039
+the craziness and build with what you
+
+1198.64 --> 1205.7990000000002
+know is real do things with with what
+
+1201.039 --> 1205.799
+you know is real try to anticipate
+
+1206.72 --> 1212.88
+a growth situation based really only on
+
+1210.48 --> 1213.919
+what's real and not
+
+1212.88 --> 1215.679
+let the
+
+1213.919 --> 1217.2800000000002
+hysterical
+
+1215.679 --> 1220.0
+stories
+
+1217.28 --> 1222.24
+seep into the way you do things or the
+
+1220.0 --> 1223.28
+way you prepare things even
+
+1222.24 --> 1224.559
+right
+
+1223.28 --> 1228.1589999999999
+don't
+
+1224.559 --> 1230.6399999999999
+grow in with that
+
+1228.159 --> 1232.64
+grow separate from it
+
+1230.64 --> 1235.64
+like true like spiritual
+
+1232.64 --> 1235.64
+self-sufficiency
+
+1236.0 --> 1240.32
+it's a bit of a fuzzy word but i think
+
+1238.559 --> 1242.559
+that would
+
+1240.32 --> 1244.1589999999999
+bring the yeah
+
+1242.559 --> 1246.48
+bring it across spiritual
+
+1244.159 --> 1249.919
+self-sufficience don't let the craziness
+
+1246.48 --> 1251.44
+become part of how you build things
+
+1249.919 --> 1253.44
+right that would have been a better
+
+1251.44 --> 1255.1200000000001
+message instead of like oh we gotta
+
+1253.44 --> 1257.28
+explore the lands and then we have
+
+1255.12 --> 1260.32
+enough land and then all the problems go
+
+1257.28 --> 1260.32
+away yeah no
+
+1260.64 --> 1264.64
+it's not going to solve anything it's
+
+1262.08 --> 1266.24
+just going to move it again like
+
+1264.64 --> 1268.48
+it always does
+
+1266.24 --> 1268.48
+right
+
+1270.08 --> 1273.6
+finding new lands is all super
+
+1271.679 --> 1274.88
+exhilarating and there is a freedom for
+
+1273.6 --> 1277.76
+some time
+
+1274.88 --> 1279.5200000000002
+but the problems
+
+1277.76 --> 1282.8799999999999
+that you were
+
+1279.52 --> 1285.44
+going there for to go away from
+
+1282.88 --> 1287.8400000000001
+where you originally were they're always
+
+1285.44 --> 1290.88
+going to follow you you're going to
+
+1287.84 --> 1292.6399999999999
+bring them with you
+
+1290.88 --> 1295.0390000000002
+by
+
+1292.64 --> 1297.3600000000001
+wanting to ignore them
+
+1295.039 --> 1299.52
+and not resolve them and instead
+
+1297.36 --> 1302.52
+go away from them right so yeah
+
+1299.52 --> 1302.52
+complicated
+
+1307.28 --> 1312.6399999999999
+curved adjacents
+
+1309.28 --> 1312.6399999999999
+could be fun and exciting
+
+1313.919 --> 1317.44
+right
+
+1315.12 --> 1320.4799999999998
+well kevin k that's
+
+1317.44 --> 1322.72
+that's what my show is for isn't it
+
+1320.48 --> 1324.32
+i'm gonna say it now
+
+1322.72 --> 1327.3600000000001
+right but yeah the flat earth debate you
+
+1324.32 --> 1330.72
+gotta realize it is
+
+1327.36 --> 1333.6
+it's a combat arena it's
+
+1330.72 --> 1337.1200000000001
+it's main objective is not to entertain
+
+1333.6 --> 1338.7199999999998
+the listeners the main objective is to
+
+1337.12 --> 1342.8799999999999
+present
+
+1338.72 --> 1344.4
+the most efficient most focused weaponry
+
+1342.88 --> 1346.4
+against
+
+1344.4 --> 1349.039
+anti-flat earth
+
+1346.4 --> 1349.039
+fanatics
+
+1349.6 --> 1354.559
+and double think
+
+1351.679 --> 1357.2
+people in general it's against the whole
+
+1354.559 --> 1358.72
+demon spirit like that right that's what
+
+1357.2 --> 1360.48
+it's really for
+
+1358.72 --> 1362.559
+and that's why the curved adjacent and
+
+1360.48 --> 1364.72
+all that yeah i find it a bit bit boring
+
+1362.559 --> 1366.72
+too it's not something that i can like
+
+1364.72 --> 1368.72
+do a whole bunch with right it's
+
+1366.72 --> 1370.88
+technically correct
+
+1368.72 --> 1373.679
+it's just that
+
+1370.88 --> 1376.72
+it's not very exciting but it is
+
+1373.679 --> 1376.72
+effective though
+
+1380.159 --> 1382.4
+right
+
+1382.64 --> 1389.2800000000002
+it's gonna it's gonna move beyond that
+
+1386.48 --> 1391.679
+right especially if something new comes
+
+1389.28 --> 1391.6789999999999
+alike
+
+1392.48 --> 1398.919
+north pole talk it's more interesting
+
+1395.12 --> 1398.9189999999999
+what do you mean tara 306.
+
+1422.4 --> 1428.5590000000002
+they could make it so much better
+
+1424.96 --> 1429.3600000000001
+you mean the uh next level movie
+
+1428.559 --> 1431.039
+yeah
+
+1429.36 --> 1433.9189999999999
+they could have but they're just not
+
+1431.039 --> 1433.919
+focused on that
+
+1434.559 --> 1439.6789999999999
+they're it's really they're focused on
+
+1436.96 --> 1442.8400000000001
+advertising on trying to get through the
+
+1439.679 --> 1445.679
+people that aren't all that developed
+
+1442.84 --> 1449.36
+right so
+
+1445.679 --> 1449.3600000000001
+yeah it's not gonna have like
+
+1451.2 --> 1455.8400000000001
+it it can't be too far away from that or
+
+1453.679 --> 1458.4
+it's gonna be too high a threshold for
+
+1455.84 --> 1462.0
+people it's gonna scare them if you
+
+1458.4 --> 1464.24
+throw in every single detail right away
+
+1462.0 --> 1464.24
+right
+
+1465.039 --> 1469.76
+the land disappearing in north yeah yeah
+
+1467.12 --> 1471.52
+right yeah that it was curious right but
+
+1469.76 --> 1474.32
+it's still a bit of a reification
+
+1471.52 --> 1476.4
+because like what are they talking about
+
+1474.32 --> 1478.3999999999999
+how do they know that land was always
+
+1476.4 --> 1480.0
+there
+
+1478.4 --> 1483.2
+how do they know
+
+1480.0 --> 1484.0
+it literally like sank that's what you
+
+1483.2 --> 1486.4
+would
+
+1484.0 --> 1488.96
+conclude if you would
+
+1486.4 --> 1491.919
+go with the notion like yeah the maps
+
+1488.96 --> 1493.039
+are absolutely literal
+
+1491.919 --> 1494.88
+right
+
+1493.039 --> 1496.72
+but they don't know
+
+1494.88 --> 1498.8400000000001
+like what happened
+
+1496.72 --> 1502.88
+did did that land
+
+1498.84 --> 1505.039
+sink did the loop disconnect
+
+1502.88 --> 1508.159
+and thus the land suddenly wasn't
+
+1505.039 --> 1508.1589999999999
+connected anymore
+
+1508.4 --> 1513.679
+right
+
+1509.52 --> 1516.559
+or was it a fiction
+
+1513.679 --> 1518.799
+there was part of a myth maybe even like
+
+1516.559 --> 1520.0
+a cult of cartographers that would put
+
+1518.799 --> 1522.0
+it there
+
+1520.0 --> 1524.32
+based on their religion
+
+1522.0 --> 1526.159
+and the people would know better and by
+
+1524.32 --> 1528.1589999999999
+then presenting the maps
+
+1526.159 --> 1530.0
+they would kind of almost be forced to
+
+1528.159 --> 1531.919
+believe it right it could have been a
+
+1530.0 --> 1532.799
+wizard trick you don't know we don't
+
+1531.919 --> 1534.7990000000002
+know
+
+1532.799 --> 1538.0
+right we'd only know
+
+1534.799 --> 1540.24
+once we literally go to where we think
+
+1538.0 --> 1542.48
+these lands would have been
+
+1540.24 --> 1545.6
+and then check out the ocean bottom and
+
+1542.48 --> 1548.08
+see like are there like mountains
+
+1545.6 --> 1549.52
+mountain peaks there at the bottom
+
+1548.08 --> 1552.6399999999999
+in that pattern
+
+1549.52 --> 1554.72
+then you can then you can finally if you
+
+1552.64 --> 1556.96
+actually have some palpable proof for
+
+1554.72 --> 1558.96
+that then you can start to suggest like
+
+1556.96 --> 1561.679
+yeah there was this
+
+1558.96 --> 1564.0
+rocky island with the four rivers and it
+
+1561.679 --> 1566.3200000000002
+said look there's the mountain ranges
+
+1564.0 --> 1569.6
+literally there well
+
+1566.32 --> 1570.6399999999999
+the google map images did not yield
+
+1569.6 --> 1571.9189999999999
+anything
+
+1570.64 --> 1573.44
+like that
+
+1571.919 --> 1575.279
+right
+
+1573.44 --> 1577.6000000000001
+so yeah again again it's a bit of a
+
+1575.279 --> 1579.76
+reification
+
+1577.6 --> 1581.9189999999999
+but it's an interesting thing to address
+
+1579.76 --> 1585.52
+it's a mystery but it's more like a
+
+1581.919 --> 1588.24
+cartography mystery
+
+1585.52 --> 1590.559
+then it is like oh there's a super
+
+1588.24 --> 1592.0
+phenomenon there was these lands and it
+
+1590.559 --> 1595.44
+sank
+
+1592.0 --> 1597.919
+no you don't know that yet
+
+1595.44 --> 1600.48
+haven't actually done
+
+1597.919 --> 1603.6000000000001
+like haven't got palpable
+
+1600.48 --> 1606.32
+evidence for that yet the map is not
+
+1603.6 --> 1608.799
+the terrain it's not the evidence it's a
+
+1606.32 --> 1611.799
+suggestion
+
+1608.799 --> 1611.799
+right
+
+1614.32 --> 1616.6399999999999
+hmm
+
+1621.84 --> 1628.6399999999999
+the fifth element spirit either yeah
+
+1625.2 --> 1631.679
+well the fifth element ether spirit
+
+1628.64 --> 1634.0800000000002
+i mean the spirit ether is like
+
+1631.679 --> 1636.64
+yeah i'm not gonna try to prove that
+
+1634.08 --> 1638.24
+scientifically thanks
+
+1636.64 --> 1640.64
+but
+
+1638.24 --> 1642.3990000000001
+you can't make me
+
+1640.64 --> 1645.679
+like doubt
+
+1642.399 --> 1647.6789999999999
+my absolute trust that it's there
+
+1645.679 --> 1649.76
+i'm constantly
+
+1647.679 --> 1651.3600000000001
+doing things with it interacting with it
+
+1649.76 --> 1653.2
+reading it it's like
+
+1651.36 --> 1656.0
+yeah
+
+1653.2 --> 1657.3600000000001
+i mean you could call it like a pool of
+
+1656.0 --> 1660.72
+spirits
+
+1657.36 --> 1662.32
+it's like the the dormant telepathy
+
+1660.72 --> 1664.64
+or you could call it
+
+1662.32 --> 1668.24
+the spirit ether
+
+1664.64 --> 1670.3200000000002
+right you could call it all these things
+
+1668.24 --> 1673.6
+but it's not
+
+1670.32 --> 1676.0
+all the mystical
+
+1673.6 --> 1678.9599999999998
+physics related
+
+1676.0 --> 1681.36
+thing a medium that makes everything
+
+1678.96 --> 1684.08
+work the way it does right
+
+1681.36 --> 1685.9189999999999
+that's science fiction that's
+
+1684.08 --> 1688.6399999999999
+light ether
+
+1685.919 --> 1690.3990000000001
+and it's completely fallacious
+
+1688.64 --> 1694.159
+but yeah again there's
+
+1690.399 --> 1696.08
+four or maybe even five types of ether
+
+1694.159 --> 1698.0
+i said four once in the list but it is
+
+1696.08 --> 1700.24
+actually five right
+
+1698.0 --> 1703.36
+there's the light ether
+
+1700.24 --> 1704.88
+it's science fiction
+
+1703.36 --> 1707.76
+there's the
+
+1704.88 --> 1709.5200000000002
+electric ether tesla talked about that
+
+1707.76 --> 1712.399
+it's very different
+
+1709.52 --> 1713.44
+he tied it in perhaps but it's not it's
+
+1712.399 --> 1715.12
+separate
+
+1713.44 --> 1717.3600000000001
+it's just electricity in the air has
+
+1715.12 --> 1720.2399999999998
+nothing to do with a medium
+
+1717.36 --> 1721.039
+for things to work the way they do
+
+1720.24 --> 1724.0
+then
+
+1721.039 --> 1726.799
+there's the material the chemical ether
+
+1724.0 --> 1729.919
+you pass out when you use it
+
+1726.799 --> 1732.6399999999999
+and then there's the spirit ether
+
+1729.919 --> 1736.7990000000002
+thing we use our spiritual abilities
+
+1732.64 --> 1740.24
+with social like remote viewing
+
+1736.799 --> 1742.8799999999999
+reading who knows what what yeah spirit
+
+1740.24 --> 1745.2
+stuff but then there's also which one
+
+1742.88 --> 1745.2
+was it
+
+1745.52 --> 1750.52
+i lost it
+
+1747.279 --> 1750.52
+damn it
+
+1753.84 --> 1756.399
+oh yeah yeah
+
+1755.12 --> 1758.799
+of course
+
+1756.399 --> 1760.7199999999998
+there's the communication ether
+
+1758.799 --> 1764.24
+which is arguably
+
+1760.72 --> 1767.44
+using the electric ether right it's
+
+1764.24 --> 1770.559
+it's popularly used the either
+
+1767.44 --> 1772.72
+for radio radio signals it's the
+
+1770.559 --> 1776.0
+communication ether that's the fifth
+
+1772.72 --> 1778.84
+ether it's technological
+
+1776.0 --> 1781.76
+right so there you go you got five
+
+1778.84 --> 1784.72
+ethers and yeah that
+
+1781.76 --> 1787.2
+that ether that a lot of flat earthers
+
+1784.72 --> 1790.24
+like to think is the cause of everything
+
+1787.2 --> 1792.159
+that one is fiction
+
+1790.24 --> 1794.3990000000001
+space it's a mistake
+
+1792.159 --> 1798.3990000000001
+based on the presupposition that light
+
+1794.399 --> 1800.559
+is a wave like material waves and
+
+1798.399 --> 1802.32
+therefore secondary so there must be a
+
+1800.559 --> 1805.52
+primary medium
+
+1802.32 --> 1808.559
+for light to be able to be the way
+
+1805.52 --> 1811.039
+it is as a presupposed wave and that
+
+1808.559 --> 1815.44
+spawns this fictional medium that is
+
+1811.039 --> 1817.12
+then tied into all these weird anomalies
+
+1815.44 --> 1818.72
+yeah that's
+
+1817.12 --> 1821.1999999999998
+light ether
+
+1818.72 --> 1822.64
+it's wrong
+
+1821.2 --> 1824.32
+it really is i know it's very
+
+1822.64 --> 1825.8400000000001
+disappointing to some people that are
+
+1824.32 --> 1829.52
+like but what about all these things
+
+1825.84 --> 1831.4399999999998
+yeah well all these things tied in with
+
+1829.52 --> 1833.44
+supposed ether
+
+1831.44 --> 1835.76
+they're still there they're still
+
+1833.44 --> 1839.6000000000001
+interesting they're all little magical
+
+1835.76 --> 1843.84
+puzzles of things that you discover yeah
+
+1839.6 --> 1846.399
+but to then say it must be ether is just
+
+1843.84 --> 1848.84
+like attributing
+
+1846.399 --> 1850.6399999999999
+acceleration
+
+1848.84 --> 1851.4399999999998
+weight
+
+1850.64 --> 1854.24
+to
+
+1851.44 --> 1856.64
+and other things to gravity like but all
+
+1854.24 --> 1859.44
+these things like i'm dropping it it
+
+1856.64 --> 1860.72
+proves gravity no it doesn't
+
+1859.44 --> 1862.0
+it's one
+
+1860.72 --> 1864.159
+single thing
+
+1862.0 --> 1866.48
+there's different ways to approach that
+
+1864.159 --> 1868.3200000000002
+right but no they presuppose it's caused
+
+1866.48 --> 1870.159
+by gravity
+
+1868.32 --> 1872.6399999999999
+and all the pressure
+
+1870.159 --> 1875.519
+presupposed to be caused by gravity
+
+1872.64 --> 1876.64
+right well the ether follows the same
+
+1875.519 --> 1879.279
+pattern
+
+1876.64 --> 1882.96
+of presupposition all these little
+
+1879.279 --> 1885.2
+things out there interesting things
+
+1882.96 --> 1887.519
+then attributed but yeah but look at how
+
+1885.2 --> 1890.24
+electricity is doing this thing and like
+
+1887.519 --> 1891.44
+yeah but that's electricity it's doing a
+
+1890.24 --> 1893.44
+thing
+
+1891.44 --> 1896.159
+now you're presupposing that it's doing
+
+1893.44 --> 1897.76
+the thing because of ether
+
+1896.159 --> 1899.7600000000002
+you have no evidence for that and you
+
+1897.76 --> 1902.24
+could never prove that it's science
+
+1899.76 --> 1902.24
+fiction
+
+1902.559 --> 1905.44
+see
+
+1904.32 --> 1907.76
+and that's
+
+1905.44 --> 1909.8400000000001
+the problem with ether and that's why i
+
+1907.76 --> 1912.48
+now call it straightforward just
+
+1909.84 --> 1914.399
+declared it an aberration exactly like
+
+1912.48 --> 1916.96
+gravity it follows the exact same
+
+1914.399 --> 1916.9599999999998
+patterns
+
+1917.2 --> 1922.72
+through people and how they deal with it
+
+1919.2 --> 1926.32
+as they do with gravity
+
+1922.72 --> 1927.84
+right so that explains that
+
+1926.32 --> 1931.6789999999999
+my mic
+
+1927.84 --> 1931.6789999999999
+is clipping what are you talking about
+
+1932.08 --> 1935.84
+anybody else having audio issues
+
+1940.32 --> 1944.48
+i'm not seeing any anomalies here
+
+1944.559 --> 1948.279
+on my mic readout
+
+1952.08 --> 1957.36
+uh i forgot the technobabble ether
+
+1955.44 --> 1960.0800000000002
+no i didn't forget the techno battle
+
+1957.36 --> 1961.1999999999998
+ether i just explained it
+
+1960.08 --> 1964.24
+i just
+
+1961.2 --> 1967.039
+exactly expl the technobabble ether is
+
+1964.24 --> 1969.2
+all these is pointy it's like a list
+
+1967.039 --> 1972.96
+all these different
+
+1969.2 --> 1975.1200000000001
+separated little things out there
+
+1972.96 --> 1978.3990000000001
+that are like little mysteries it's an
+
+1975.12 --> 1980.1589999999999
+electrics it might be in lights mostly
+
+1978.399 --> 1981.36
+electrics though right and then they
+
+1980.159 --> 1984.72
+just say
+
+1981.36 --> 1986.9599999999998
+that proves the ether that's what it is
+
+1984.72 --> 1990.08
+it's all presupposition they just take
+
+1986.96 --> 1993.1200000000001
+little anomalies they
+
+1990.08 --> 1994.799
+like they they put them on a rope like
+
+1993.12 --> 1995.84
+beads they make this giant chain of
+
+1994.799 --> 1998.24
+beads
+
+1995.84 --> 2001.36
+all these little phenomena say this
+
+1998.24 --> 2001.36
+is the ether
+
+2001.6 --> 2004.7199999999998
+that's the same like what they do with
+
+2003.12 --> 2008.7199999999998
+the gravity
+
+2004.72 --> 2008.72
+more elaborate perhaps right
+
+2010.24 --> 2017.32
+now my clip okay good to hear
+
+2012.799 --> 2017.32
+i guess it's just you steamy traveler
+
+2021.12 --> 2024.9599999999998
+hey stop the traffic in my restaurant
+
+2028.46 --> 2033.279
+[Music]
+
+2031.36 --> 2035.76
+oh steamy travel have you just tried
+
+2033.279 --> 2038.72
+refreshing the browser
+
+2035.76 --> 2041.919
+browsers can have like weird
+
+2038.72 --> 2044.3990000000001
+unexpected glitches sometimes most
+
+2041.919 --> 2044.3990000000001
+browsers
+
+2044.799 --> 2050.8
+huh
+
+2047.279 --> 2050.8
+who have they defined ether
+
+2052.0 --> 2056.72
+well they're trying to define it they're
+
+2054.56 --> 2056.72
+just
+
+2057.119 --> 2062.48
+but it's basically all turning into like
+
+2060.399 --> 2063.7599999999998
+a giant b yeah
+
+2062.48 --> 2066.919
+strain
+
+2063.76 --> 2066.9190000000003
+of presuppositions
+
+2084.159 --> 2087.159
+what
+
+2088.159 --> 2091.119
+uh
+
+2088.96 --> 2093.919
+no thanks capric
+
+2091.119 --> 2096.639
+capric castle
+
+2093.919 --> 2100.24
+not ordering anything
+
+2096.639 --> 2100.2400000000002
+as the word soy in it
+
+2100.64 --> 2103.64
+uh
+
+2123.839 --> 2128.2
+i have no idea what you're talking about
+
+2131.359 --> 2139.2799999999997
+it's not those bad estrogen [ __ ] okay
+
+2136.0 --> 2139.28
+i'm still not doing it
+
+2140.32 --> 2148.4
+like i'm boycotting soy
+
+2144.079 --> 2151.76
+like i'm in the strong conviction that
+
+2148.4 --> 2153.04
+soy should not be like a majority crop
+
+2151.76 --> 2155.2000000000003
+in the world
+
+2153.04 --> 2156.079
+there's much better ways to actually
+
+2155.2 --> 2159.2
+farm
+
+2156.079 --> 2161.44
+that are more better for everybody
+
+2159.2 --> 2161.4399999999996
+right
+
+2161.839 --> 2166.0
+so yeah oh look what you could do with
+
+2163.52 --> 2168.24
+this with so and that was like no
+
+2166.0 --> 2168.24
+no
+
+2171.76 --> 2174.4
+i don't want it
+
+2176.24 --> 2182.3999999999996
+a topical treatment
+
+2179.44 --> 2183.76
+no soy boys right
+
+2182.4 --> 2186.079
+because like oh look at what you could
+
+2183.76 --> 2188.8
+do with soy with this and with that yeah
+
+2186.079 --> 2190.8
+and then at the same time
+
+2188.8 --> 2192.079
+the soy latte industry is going to be
+
+2190.8 --> 2193.6800000000003
+like yeah
+
+2192.079 --> 2194.6400000000003
+that's going to make it even cheaper for
+
+2193.68 --> 2195.9199999999996
+me
+
+2194.64 --> 2198.64
+ah that's
+
+2195.92 --> 2200.8
+more soy lattes for everybody like oh we
+
+2198.64 --> 2202.24
+can just give it away for free now oh
+
+2200.8 --> 2203.28
+yes
+
+2202.24 --> 2206.72
+like
+
+2203.28 --> 2209.92
+yeah one soy industry is going to
+
+2206.72 --> 2212.9199999999996
+like automatically boost another
+
+2209.92 --> 2212.92
+so
+
+2214.64 --> 2220.8799999999997
+i once saw palmetto
+
+2218.32 --> 2223.6800000000003
+i yeah i do appreciate that
+
+2220.88 --> 2225.04
+what against hair loss i don't know i
+
+2223.68 --> 2227.5989999999997
+just like it
+
+2225.04 --> 2231.359
+not i'm not taking anything against hair
+
+2227.599 --> 2231.3590000000004
+loss i don't fear hair loss
+
+2232.8 --> 2237.76
+i mean yeah i'm gonna lose it eventually
+
+2236.24 --> 2241.7599999999998
+but
+
+2237.76 --> 2243.92
+my hair is pretty remarkable
+
+2241.76 --> 2246.1600000000003
+i think i'm very happy with my hair i do
+
+2243.92 --> 2248.079
+my best to just treat it right
+
+2246.16 --> 2249.839
+if i'm just going to be like oh no i'm
+
+2248.079 --> 2251.3590000000004
+going to lose it yeah guess what's going
+
+2249.839 --> 2253.2799999999997
+to happen
+
+2251.359 --> 2256.0
+yeah it's going to cause stress it's
+
+2253.28 --> 2258.48
+going to cause like focus with with not
+
+2256.0 --> 2260.24
+good intent with fear
+
+2258.48 --> 2262.64
+is actually gonna make things worse so
+
+2260.24 --> 2265.4399999999996
+i'm just like no
+
+2262.64 --> 2265.44
+i'm okay
+
+2266.4 --> 2271.76
+you know what the best way to not lose
+
+2268.72 --> 2274.0789999999997
+your hair is not stressing yourself the
+
+2271.76 --> 2276.96
+[ __ ] out so that you accidentally pull
+
+2274.079 --> 2276.96
+out your own hair
+
+2301.04 --> 2304.04
+okay
+
+2334.64 --> 2339.72
+your hip to the rest okay
+
+2342.4 --> 2346.8
+i mean look if something's out there
+
+2344.24 --> 2349.7599999999998
+that really works yeah i might try it at
+
+2346.8 --> 2351.599
+some point even it's just that
+
+2349.76 --> 2355.0
+i'm just trying to keep everything the
+
+2351.599 --> 2355.0
+way it is
+
+2356.4 --> 2362.56
+like i don't have a lot of money to
+
+2359.76 --> 2364.6400000000003
+like try out a whole bunch of new things
+
+2362.56 --> 2366.48
+then potentially get stuck to that and
+
+2364.64 --> 2369.2799999999997
+then what if i certainly can't pay for
+
+2366.48 --> 2372.48
+it anymore will i end up losing more
+
+2369.28 --> 2375.44
+than i started out with right
+
+2372.48 --> 2378.16
+it's part of my policy
+
+2375.44 --> 2380.96
+like don't try anything unless you know
+
+2378.16 --> 2382.8799999999997
+you can actually
+
+2380.96 --> 2384.7200000000003
+use it in a way that you're not gonna
+
+2382.88 --> 2386.1600000000003
+end up losing more than you started out
+
+2384.72 --> 2389.16
+with
+
+2386.16 --> 2389.16
+anyways
+
+2401.76 --> 2407.0
+okay kevin k
+
+2403.52 --> 2407.0
+talk to you later
+
+2429.839 --> 2433.7599999999998
+oh man i'm hungry
+
+2431.21 --> 2436.319
+[Music]
+
+2433.76 --> 2438.3190000000004
+i made an official croissant complaint
+
+2436.319 --> 2440.88
+to the store
+
+2438.319 --> 2440.88
+i did it
+
+2441.119 --> 2446.319
+and it was well received i really said
+
+2443.44 --> 2448.7200000000003
+like yeah this is not working i mean
+
+2446.319 --> 2451.839
+there's these are not really the these
+
+2448.72 --> 2455.52
+are not the croissants we're looking for
+
+2451.839 --> 2458.64
+and like everybody wants them
+
+2455.52 --> 2462.24
+and like she even liked them so like the
+
+2458.64 --> 2464.319
+one in the store so she knows like yes
+
+2462.24 --> 2467.359
+you're right so i asked like can you
+
+2464.319 --> 2469.44
+make an official inquiry
+
+2467.359 --> 2471.52
+or a complaint about yeah this is
+
+2469.44 --> 2473.76
+nonsense we want the real croissants and
+
+2471.52 --> 2476.56
+we need plenty because everybody likes
+
+2473.76 --> 2476.5600000000004
+them this is
+
+2476.8 --> 2480.079
+like
+
+2477.56 --> 2482.88
+counterproductive for this standard
+
+2480.079 --> 2484.1600000000003
+store policy you want to sell [ __ ] so
+
+2482.88 --> 2486.4
+sell it
+
+2484.16 --> 2488.7999999999997
+sell it already
+
+2486.4 --> 2488.8
+anyway
+
+2490.079 --> 2495.04
+kind of hungry but it will have like it
+
+2493.04 --> 2496.88
+i have a new type of lunch i don't eat
+
+2495.04 --> 2499.119
+pizzas anymore and they were like too
+
+2496.88 --> 2500.6400000000003
+expensive anyway
+
+2499.119 --> 2502.4
+but now
+
+2500.64 --> 2504.64
+i get like a
+
+2502.4 --> 2505.839
+that uh yeah
+
+2504.64 --> 2509.04
+spelt
+
+2505.839 --> 2511.52
+sourdough thai bread
+
+2509.04 --> 2513.52
+that i like bake in the oven last
+
+2511.52 --> 2515.28
+finishing bake
+
+2513.52 --> 2516.16
+then i
+
+2515.28 --> 2518.96
+put
+
+2516.16 --> 2520.0
+the basically slice up tomato i peel it
+
+2518.96 --> 2521.839
+first
+
+2520.0 --> 2523.599
+and i slice up in little little little
+
+2521.839 --> 2526.72
+bit pieces
+
+2523.599 --> 2528.8
+tomato like half a tomato for one bread
+
+2526.72 --> 2530.24
+and yeah add
+
+2528.8 --> 2532.319
+chopped up
+
+2530.24 --> 2533.2799999999997
+chili peppers
+
+2532.319 --> 2537.16
+and then
+
+2533.28 --> 2537.1600000000003
+yeah beef salami
+
+2539.28 --> 2543.76
+and like you don't use butter or
+
+2540.96 --> 2545.359
+anything just use the tomato
+
+2543.76 --> 2547.44
+and just because it needs to be little
+
+2545.359 --> 2550.56
+bits and then like chop it up and like
+
+2547.44 --> 2552.079
+push it into the bread a bit like if if
+
+2550.56 --> 2554.56
+there's like from the chopping up
+
+2552.079 --> 2555.6800000000003
+there's like this tomato
+
+2554.56 --> 2556.64
+uh
+
+2555.68 --> 2558.24
+juice
+
+2556.64 --> 2560.319
+from that then
+
+2558.24 --> 2562.3999999999996
+especially that pour that on the bread
+
+2560.319 --> 2565.52
+because you want it to soak in
+
+2562.4 --> 2566.88
+and then put it together with the salami
+
+2565.52 --> 2570.079
+and the pepper
+
+2566.88 --> 2570.079
+it's like the best
+
+2571.04 --> 2576.16
+the best type of bread for like great
+
+2573.28 --> 2578.3190000000004
+weather for picnic or like going to the
+
+2576.16 --> 2580.8799999999997
+beach that's how i originally learned
+
+2578.319 --> 2583.92
+about it you have to like a big baguette
+
+2580.88 --> 2585.92
+with salami and chopped up tomatoes and
+
+2583.92 --> 2589.04
+like a big one
+
+2585.92 --> 2591.28
+best ever for like on the beach
+
+2589.04 --> 2592.88
+when it's hot
+
+2591.28 --> 2594.7200000000003
+amazing stuff
+
+2592.88 --> 2596.88
+so i'm having those it's actually
+
+2594.72 --> 2598.24
+turning out to be cheaper than pizza so
+
+2596.88 --> 2599.92
+and it's
+
+2598.24 --> 2600.8799999999997
+better
+
+2599.92 --> 2602.4
+so
+
+2600.88 --> 2605.119
+looking forward to that now i made
+
+2602.4 --> 2606.96
+myself even more hungry
+
+2605.119 --> 2609.28
+still have
+
+2606.96 --> 2612.92
+like an hour and 20 minutes to go before
+
+2609.28 --> 2612.92
+i can eat that
+
+2632.48 --> 2637.599
+okay rastad well look if there's
+
+2634.88 --> 2638.7200000000003
+something yeah you're talking
+
+2637.599 --> 2641.28
+about
+
+2638.72 --> 2641.2799999999997
+this stuff
+
+2641.599 --> 2645.2000000000003
+i don't really know what to do with it
+
+2647.52 --> 2649.839
+i mean
+
+2654.4 --> 2660.0
+like what do you do it's like a gel you
+
+2656.72 --> 2662.16
+just put it in your head or something
+
+2660.0 --> 2664.96
+do you leave it there you wash it off
+
+2662.16 --> 2664.96
+like i don't know
+
+2665.839 --> 2669.2
+how well does it really work
+
+2670.88 --> 2674.319
+or is it just like oh you only have to
+
+2672.72 --> 2677.2799999999997
+do that the rest of your life in your
+
+2674.319 --> 2681.319
+hair will kind of stay the same
+
+2677.28 --> 2681.3190000000004
+so yeah i don't know
+
+2698.48 --> 2701.88
+best bagels
+
+2717.119 --> 2721.52
+bagel is like a
+
+2720.16 --> 2723.1189999999997
+donut
+
+2721.52 --> 2724.319
+sandwich
+
+2723.119 --> 2726.7200000000003
+something
+
+2724.319 --> 2726.72
+okay
+
+2730.56 --> 2737.96
+or update you works okay that's good i'd
+
+2733.04 --> 2737.96
+love to hear about that caprica so
+
+2747.599 --> 2753.92
+like my general experience is that
+
+2750.64 --> 2755.5989999999997
+people that start to lose their hair
+
+2753.92 --> 2759.04
+in their late teens
+
+2755.599 --> 2761.2000000000003
+they're the ones that really lose it
+
+2759.04 --> 2762.48
+and then those that don't go through
+
+2761.2 --> 2766.16
+that
+
+2762.48 --> 2768.4
+they just kind of slow my slightest thin
+
+2766.16 --> 2772.48
+out a little and then
+
+2768.4 --> 2774.64
+usually like between 50 and 60
+
+2772.48 --> 2777.04
+it partially goes
+
+2774.64 --> 2780.24
+but then they like yeah they
+
+2777.04 --> 2782.4
+they usually metamorphose
+
+2780.24 --> 2783.52
+in their looks anyway to become
+
+2782.4 --> 2785.2000000000003
+different
+
+2783.52 --> 2787.7599999999998
+so usually just it's like a
+
+2785.2 --> 2790.319
+metamorphosis and
+
+2787.76 --> 2790.3190000000004
+it's different
+
+2790.48 --> 2793.2
+so i don't know
+
+2795.28 --> 2800.0
+you may never get in the balls yeah well
+
+2797.52 --> 2801.04
+i hope so
+
+2800.0 --> 2804.24
+but
+
+2801.04 --> 2805.119
+it's difficult because my dad is
+
+2804.24 --> 2807.839
+like
+
+2805.119 --> 2810.56
+well he it's just like my dad's the same
+
+2807.839 --> 2813.2
+but he like didn't go with the long hair
+
+2810.56 --> 2815.44
+and he's like yeah i just
+
+2813.2 --> 2820.0789999999997
+i'm just letting it be like weird
+
+2815.44 --> 2820.079
+whatever confused professor sort of look
+
+2821.2 --> 2824.16
+patchy and [ __ ]
+
+2824.4 --> 2827.2000000000003
+it's fine though like
+
+2826.079 --> 2830.6400000000003
+he's still
+
+2827.2 --> 2834.2799999999997
+yeah he still looks cool and very young
+
+2830.64 --> 2834.2799999999997
+for his age so
+
+2848.88 --> 2853.28
+right stop that's interesting stuff a
+
+2850.96 --> 2855.44
+trafficking arrest had yeah
+
+2853.28 --> 2855.44
+so
+
+2855.92 --> 2861.119
+how does that how would that work if
+
+2857.76 --> 2863.92
+that like the young guy is getting it
+
+2861.119 --> 2866.6400000000003
+so is that like a temporary face where
+
+2863.92 --> 2868.16
+phase where it just happens then you
+
+2866.64 --> 2870.0789999999997
+have to do it then or is that a thing
+
+2868.16 --> 2872.16
+that like you have to like put that
+
+2870.079 --> 2874.4
+stuff on your head the rest of your life
+
+2872.16 --> 2875.359
+and if you forget it like once
+
+2874.4 --> 2877.119
+uh
+
+2875.359 --> 2878.96
+for like a week
+
+2877.119 --> 2881.359
+your hair just goes is it would it be
+
+2878.96 --> 2885.079
+like that
+
+2881.359 --> 2885.0789999999997
+how would that work
+
+2900.72 --> 2903.04
+hmm
+
+2906.64 --> 2911.839
+right that's directly testosterone okay
+
+2909.44 --> 2915.68
+then it should only be temporary because
+
+2911.839 --> 2918.48
+your testosterone does go down as you
+
+2915.68 --> 2918.48
+grow older
+
+2918.8 --> 2921.3590000000004
+interesting
+
+2922.16 --> 2925.839
+i'll try to keep that in mind
+
+2924.16 --> 2927.7599999999998
+i mean if there's ever a guy that's like
+
+2925.839 --> 2930.64
+oh no i think i might be losing my hair
+
+2927.76 --> 2932.7200000000003
+i'll i'll try to remember that
+
+2930.64 --> 2934.16
+if a young guy starts like
+
+2932.72 --> 2936.8799999999997
+says yeah
+
+2934.16 --> 2939.68
+i think maybe like i killed the hope
+
+2936.88 --> 2942.4
+could use something with that
+
+2939.68 --> 2945.2799999999997
+i mean he he was like not satisfied
+
+2942.4 --> 2947.2000000000003
+about his hair it was fine to me like
+
+2945.28 --> 2949.8390000000004
+it's not
+
+2947.2 --> 2951.7599999999998
+super perfect like union moderate
+
+2949.839 --> 2954.48
+perfect how but
+
+2951.76 --> 2956.559
+like he looked like a really cool guy
+
+2954.48 --> 2959.68
+despite all that so but i don't know
+
+2956.559 --> 2959.6800000000003
+maybe he could use that
+
+2963.92 --> 2969.64
+it's gone for oh [ __ ]
+
+2966.64 --> 2969.64
+hmm
+
+2979.119 --> 2983.2400000000002
+yeah hazards of testosterone
+
+3010.8 --> 3013.8390000000004
+right anyway
+
+3016.559 --> 3020.48
+interesting
+
+3017.839 --> 3022.16
+keep it in the back of my mind
+
+3020.48 --> 3024.079
+that that that there is something with
+
+3022.16 --> 3025.7599999999998
+it oh yeah i got a gusto
+
+3024.079 --> 3028.0
+by the way
+
+3025.76 --> 3031.3190000000004
+get this thing open
+
+3028.0 --> 3031.319
+right here
+
+3040.21 --> 3043.239
+[Music]
+
+3058.96 --> 3061.92
+oh right
+
+3065.04 --> 3068.7599999999998
+i would never subscribe
+
+3084.88 --> 3088.599
+all right so
+
+3110.16 --> 3115.2
+man sometimes i sit so still
+
+3112.8 --> 3118.48
+i'm looking at the screen and i'm like
+
+3115.2 --> 3118.48
+wait did i just freeze
+
+3118.72 --> 3122.72
+but it's just me sitting really still
+
+3123.04 --> 3128.889
+yeah anyway
+
+3125.69 --> 3128.889
+[Music]
+
+3133.839 --> 3139.04
+right so we're just talking about my
+
+3136.16 --> 3141.7599999999998
+lunch and the rest i had
+
+3139.04 --> 3141.7599999999998
+capri soul
+
+3142.48 --> 3147.04
+started talking
+
+3144.24 --> 3147.04
+hair loss
+
+3147.359 --> 3151.44
+it's not exactly
+
+3149.68 --> 3154.5589999999997
+a subject i want to spend the rest of
+
+3151.44 --> 3154.559
+the early bird show with
+
+3162.16 --> 3165.359
+sorry about it's fine
+
+3165.68 --> 3170.0
+i mean it's good to know it's just not
+
+3167.52 --> 3172.319
+like oh yeah man let's talk about that
+
+3170.0 --> 3174.559
+it's not because i'm not super
+
+3172.319 --> 3178.16
+interested i never had that problem i
+
+3174.559 --> 3178.1600000000003
+knew a couple of guys that did
+
+3179.52 --> 3185.28
+and they pretty much all just decided to
+
+3182.319 --> 3185.2799999999997
+go full bald
+
+3187.119 --> 3192.119
+or as i like to call them they turned
+
+3189.119 --> 3192.119
+mercurian
+
+3195.92 --> 3200.7200000000003
+well that technically
+
+3197.52 --> 3203.119
+that only works if you're also gay
+
+3200.72 --> 3203.1189999999997
+anyway
+
+3207.52 --> 3210.559
+remember that thing
+
+3212.24 --> 3217.319
+probably not i think i like mentioned it
+
+3214.319 --> 3217.319
+once
+
+3228.96 --> 3233.68
+and yeah it's not like oh this is heavy
+
+3231.839 --> 3236.88
+priesthood knowledge it's more like my
+
+3233.68 --> 3240.0
+own personal thing it's just like yeah
+
+3236.88 --> 3242.079
+guys that are like
+
+3240.0 --> 3244.16
+salesmen
+
+3242.079 --> 3246.079
+like or at least they're like really
+
+3244.16 --> 3248.0
+good at addressing
+
+3246.079 --> 3252.8
+a group of people right and they
+
+3248.0 --> 3256.96
+typically like to play on them and like
+
+3252.8 --> 3259.119
+make everybody respect them a lot
+
+3256.96 --> 3261.52
+and they're usually gay
+
+3259.119 --> 3264.079
+but not like super overtly but they
+
+3261.52 --> 3267.119
+usually are gay and they're always like
+
+3264.079 --> 3269.44
+super ball headed most of them like
+
+3267.119 --> 3270.4
+to wear suits right that's what i would
+
+3269.44 --> 3273.2000000000003
+call a
+
+3270.4 --> 3273.2000000000003
+mercurian
+
+3276.16 --> 3279.839
+and
+
+3277.04 --> 3279.839
+yeah
+
+3280.0 --> 3285.2
+because it's just like
+
+3282.64 --> 3287.839
+why do i call the mercurian because like
+
+3285.2 --> 3290.16
+mercurius is would be like the symbol of
+
+3287.839 --> 3293.599
+trade
+
+3290.16 --> 3294.96
+new ideas and like
+
+3293.599 --> 3297.2000000000003
+energy flow
+
+3294.96 --> 3297.2
+right
+
+3297.359 --> 3301.359
+yeah
+
+3298.079 --> 3302.96
+ball held the suit dressing gaze yeah
+
+3301.359 --> 3305.92
+pretty much
+
+3302.96 --> 3307.839
+that's what i call mercurians why
+
+3305.92 --> 3310.0
+because they just remind me about
+
+3307.839 --> 3312.16
+mercury it's like that's the power they
+
+3310.0 --> 3314.799
+seek and they gave everything to it and
+
+3312.16 --> 3314.799
+they love it
+
+3315.04 --> 3320.48
+i mean mercurians usually really like
+
+3318.72 --> 3323.2799999999997
+being that way
+
+3320.48 --> 3326.72
+like arguably
+
+3323.28 --> 3330.7200000000003
+uh which is called again bezos
+
+3326.72 --> 3330.72
+he is a mercurian
+
+3331.839 --> 3335.52
+like
+
+3332.64 --> 3336.72
+if there ever was one right
+
+3335.52 --> 3338.24
+i mean
+
+3336.72 --> 3342.1189999999997
+right
+
+3338.24 --> 3342.1189999999997
+it's top dog mercurian
+
+3349.839 --> 3355.2
+right i'm not saying that if you're bald
+
+3351.92 --> 3357.04
+you're automatically gay by the way
+
+3355.2 --> 3359.68
+especially if you have like a pretty
+
+3357.04 --> 3360.799
+badass beard under there
+
+3359.68 --> 3362.8799999999997
+right
+
+3360.799 --> 3366.0
+that's not gay that that's not what i
+
+3362.88 --> 3368.559
+would say it's just specifically like
+
+3366.0 --> 3370.16
+tightly shaved like
+
+3368.559 --> 3372.079
+real mercurians never have like a
+
+3370.16 --> 3375.1189999999997
+mustache or a beard
+
+3372.079 --> 3376.96
+or maybe they have like a goatee
+
+3375.119 --> 3379.359
+right maybe
+
+3376.96 --> 3380.96
+but usually they're because that's like
+
+3379.359 --> 3384.799
+extra gains
+
+3380.96 --> 3384.799
+usually they're just completely bald
+
+3385.2 --> 3391.52
+but the gay is an important factor
+
+3388.16 --> 3393.2
+and most of them like to wear suits
+
+3391.52 --> 3395.839
+and usually does kind of look kind of
+
+3393.2 --> 3395.839
+cool on them
+
+3397.599 --> 3402.96
+and they're always like
+
+3399.68 --> 3405.5989999999997
+always with the guys busy with business
+
+3402.96 --> 3409.559
+and deals and
+
+3405.599 --> 3409.559
+that sort of [ __ ] parties
+
+3420.48 --> 3425.839
+i mean maybe some of these mercurians
+
+3422.48 --> 3429.04
+and i i'm purely guessing at this point
+
+3425.839 --> 3431.68
+only very vague connections with having
+
+3429.04 --> 3434.16
+seen things sort of at parties when like
+
+3431.68 --> 3434.96
+would say 30 years ago or something
+
+3434.16 --> 3437.04
+the
+
+3434.96 --> 3438.7200000000003
+mercurians probably like to surround
+
+3437.04 --> 3440.48
+themselves by
+
+3438.72 --> 3441.4399999999996
+like attracting women
+
+3440.48 --> 3443.359
+to
+
+3441.44 --> 3447.28
+haul in men
+
+3443.359 --> 3450.96
+so they can test if they're actually gay
+
+3447.28 --> 3450.96
+secretly at parties
+
+3451.44 --> 3455.119
+that would be very mercurian
+
+3454.06 --> 3458.4
+[Music]
+
+3455.119 --> 3458.4
+i don't know why
+
+3458.48 --> 3464.2400000000002
+why
+
+3461.44 --> 3464.96
+it's just a weird thing it's maybe like
+
+3464.24 --> 3468.64
+a
+
+3464.96 --> 3471.64
+side effect of my homophobia
+
+3468.64 --> 3471.64
+right
+
+3474.64 --> 3480.0789999999997
+but i've met like several
+
+3477.2 --> 3480.0789999999997
+guys like that
+
+3483.92 --> 3490.4
+it's so typical it's like i get them i
+
+3487.76 --> 3493.0400000000004
+get what they want
+
+3490.4 --> 3496.0
+i mostly like to actually help them out
+
+3493.04 --> 3498.96
+except that when i do that
+
+3496.0 --> 3501.119
+then they actually want they like
+
+3498.96 --> 3502.96
+because i want to help them they start
+
+3501.119 --> 3504.559
+along to get in my pants and that's
+
+3502.96 --> 3508.76
+where i'm like no
+
+3504.559 --> 3508.76
+and that's where it's ruined so
+
+3517.599 --> 3524.3590000000004
+because i i can like sense that
+
+3521.359 --> 3524.359
+right
+
+3542.839 --> 3547.2
+hmm pumpkin seed oil
+
+3548.72 --> 3553.7599999999998
+okay that's interesting
+
+3551.359 --> 3556.64
+georgetown i didn't know that
+
+3553.76 --> 3560.2400000000002
+pumpkin seed oil
+
+3556.64 --> 3560.24
+increases hair growth that's
+
+3560.319 --> 3565.04
+it
+
+3561.2 --> 3565.04
+what you're sourcing for that though
+
+3565.119 --> 3569.92
+i mean if you find that in one source
+
+3567.04 --> 3573.839
+that's one thing but like if there is
+
+3569.92 --> 3573.839
+like multiple indications of that
+
+3587.28 --> 3592.1600000000003
+right way yeah i arrest that i know
+
+3590.64 --> 3595.52
+it's a different problem we get that
+
+3592.16 --> 3599.24
+what what what you talked about earlier
+
+3595.52 --> 3599.24
+about the uh
+
+3600.48 --> 3605.92
+testosterone being transformed into that
+
+3603.119 --> 3608.6400000000003
+chemical that causes that
+
+3605.92 --> 3611.359
+rapid hair loss yeah it doesn't stop
+
+3608.64 --> 3611.359
+that i know
+
+3611.68 --> 3614.68
+right
+
+3615.599 --> 3618.88
+yeah dht
+
+3619.04 --> 3625.5589999999997
+could you like
+
+3620.559 --> 3625.559
+spell that out the entire name
+
+3632.46 --> 3635.619
+[Music]
+
+3644.72 --> 3647.72
+dihydrotestosterone
+
+3648.72 --> 3652.16
+oh
+
+3649.839 --> 3652.16
+okay
+
+3653.28 --> 3657.76
+hi
+
+3654.96 --> 3659.68
+way so it's basically two
+
+3657.76 --> 3661.3590000000004
+hydrogen
+
+3659.68 --> 3662.799
+atoms
+
+3661.359 --> 3665.5989999999997
+chemically
+
+3662.799 --> 3669.24
+connected to testosterone
+
+3665.599 --> 3669.2400000000002
+is that what it is
+
+3671.2 --> 3674.2
+hmm
+
+3691.359 --> 3694.5989999999997
+or anyway
+
+3698.24 --> 3701.68
+it's
+
+3700.16 --> 3703.1189999999997
+rigged
+
+3701.68 --> 3705.5989999999997
+that's amazing
+
+3703.119 --> 3709.839
+don't listen to george sanford he has
+
+3705.599 --> 3712.88
+stocks in big pumpkin i love it
+
+3709.839 --> 3715.7599999999998
+i mean i'd support big pumpkin
+
+3712.88 --> 3719.599
+as long as they don't
+
+3715.76 --> 3719.599
+i don't know as long as they don't make
+
+3720.16 --> 3727.48
+hair loss illegal or something right
+
+3723.2 --> 3727.48
+then would start to suck
+
+3731.92 --> 3736.0
+i mean big pumpkin
+
+3733.68 --> 3738.24
+yeah eventually if a corporation or an
+
+3736.0 --> 3740.24
+organization becomes big enough it will
+
+3738.24 --> 3741.7599999999998
+start to nag and they might like oh look
+
+3740.24 --> 3744.0789999999997
+we got these new
+
+3741.76 --> 3746.7200000000003
+we got these new vaccines and
+
+3744.079 --> 3749.76
+you really need it
+
+3746.72 --> 3752.3999999999996
+to prevent rapid hair loss
+
+3749.76 --> 3752.4
+and then like
+
+3752.64 --> 3756.48
+enormous amounts of people take it and
+
+3754.88 --> 3759.039
+like are forced by the government
+
+3756.48 --> 3760.64
+because of media panic and all that
+
+3759.039 --> 3762.2400000000002
+and then suddenly all these people start
+
+3760.64 --> 3764.96
+losing their hair it's like
+
+3762.24 --> 3767.1189999999997
+yeah we have the solution
+
+3764.96 --> 3769.76
+to the problem that because all the
+
+3767.119 --> 3771.839
+people that didn't take it
+
+3769.76 --> 3776.48
+right caused all the people that took it
+
+3771.839 --> 3776.48
+to lose their hair so we got a solution
+
+3776.96 --> 3781.119
+what is it again
+
+3778.559 --> 3783.039
+seed oil
+
+3781.119 --> 3785.52
+pumpkin seed oil is pretty yeah let's
+
+3783.039 --> 3789.92
+just call it pumpkin seed oil
+
+3785.52 --> 3789.92
+yeah it just it really helps
+
+3790.16 --> 3797.0389999999998
+and so they're gonna then yeah use
+
+3793.119 --> 3799.359
+vaccines and spread media hysteria to
+
+3797.039 --> 3801.8390000000004
+invoke hair loss
+
+3799.359 --> 3804.0789999999997
+which would then up their stocks because
+
+3801.839 --> 3809.0389999999998
+suddenly everybody's gonna seek a remedy
+
+3804.079 --> 3809.039
+against that after being forced to yeah
+
+3809.119 --> 3812.7200000000003
+do all this stupid [ __ ] that didn't make
+
+3811.119 --> 3815.599
+any sense and actually caused the hair
+
+3812.72 --> 3816.799
+loss and then the the pumpkin seed
+
+3815.599 --> 3818.48
+oil
+
+3816.799 --> 3820.799
+is gonna be in higher demand and then
+
+3818.48 --> 3825.16
+they're gonna make a killing that's what
+
+3820.799 --> 3825.16
+big pumpkin would do
+
+3829.839 --> 3835.359
+right and and maybe the dht blocker
+
+3833.2 --> 3836.8799999999997
+would also start to get involved they'd
+
+3835.359 --> 3839.52
+probably be
+
+3836.88 --> 3842.079
+joined conjoined together like it would
+
+3839.52 --> 3844.88
+be the pumpkin
+
+3842.079 --> 3847.119
+big pumpkin would also include that
+
+3844.88 --> 3849.839
+of course it would have a monopoly on
+
+3847.119 --> 3852.7200000000003
+all hair
+
+3849.839 --> 3855.2
+yeah hair related products they would be
+
+3852.72 --> 3857.839
+like big hair really it's not even bit
+
+3855.2 --> 3859.4399999999996
+big pumpkin they would be big hair
+
+3857.839 --> 3862.799
+it's like a
+
+3859.44 --> 3866.68
+specialist branch of the
+
+3862.799 --> 3866.68
+of the medical department
+
+3867.44 --> 3873.799
+and they would try to take over the
+
+3868.88 --> 3873.799
+world as all mega corporations try
+
+3907.44 --> 3911.28
+okay so nobody thought that was funny
+
+3912.72 --> 3918.48
+the imaginary
+
+3914.48 --> 3918.48
+big big pumpkin big hair
+
+3920.48 --> 3923.839
+the big hair corporation
+
+3924.16 --> 3927.3999999999996
+come on
+
+3936.319 --> 3941.359
+oh yeah i would have to state that in
+
+3939.039 --> 3944.4
+big hair there would be like
+
+3941.359 --> 3946.48
+kind of a discriminatory policy secret
+
+3944.4 --> 3949.6800000000003
+of course like always
+
+3946.48 --> 3951.52
+because only people that have like
+
+3949.68 --> 3953.839
+really heavy hair
+
+3951.52 --> 3956.079
+like afro-type hair
+
+3953.839 --> 3958.88
+would would probably be allowed to be
+
+3956.079 --> 3961.8390000000004
+representatives right
+
+3958.88 --> 3964.4
+so that wherever big hair is present and
+
+3961.839 --> 3968.799
+speaking it would be
+
+3964.4 --> 3968.799
+hello man we know about her
+
+3976.88 --> 3981.6400000000003
+we got all the hair in the world
+
+4002.48 --> 4008.319
+because i mean
+
+4004.64 --> 4009.52
+what bigger grabble would there be
+
+4008.319 --> 4011.2
+than
+
+4009.52 --> 4013.2
+you know
+
+4011.2 --> 4014.64
+than to convince black people that
+
+4013.2 --> 4016.24
+they're gonna lose their hair when
+
+4014.64 --> 4018.839
+they're like
+
+4016.24 --> 4021.68
+pretty widely known to have like the
+
+4018.839 --> 4023.7599999999998
+strongest most tenacious
+
+4021.68 --> 4024.64
+hair
+
+4023.76 --> 4027.2000000000003
+of
+
+4024.64 --> 4030.0
+like all the different peoples
+
+4027.2 --> 4033.0
+on the on the world in the world
+
+4030.0 --> 4033.0
+right
+
+4037.76 --> 4043.8390000000004
+yes i don't know
+
+4040.559 --> 4045.119
+getting weird from mercurians to big
+
+4043.839 --> 4048.24
+hair
+
+4045.119 --> 4050.559
+mega corporation
+
+4048.24 --> 4052.8799999999997
+this is getting kind of weird today's
+
+4050.559 --> 4052.88
+show
+
+4055.039 --> 4058.7990000000004
+all right in the meantime stop the
+
+4056.96 --> 4060.88
+traffic in my restaurant and capricorn
+
+4058.799 --> 4063.839
+or having a private conversation in my
+
+4060.88 --> 4063.839
+chat
+
+4064.48 --> 4066.88
+about
+
+4067.039 --> 4071.88
+hair
+
+4068.079 --> 4071.88
+product chemistry
+
+4090.4 --> 4094.319
+is anybody else still there
+
+4096.88 --> 4102.12
+i don't necessarily want to talk about
+
+4099.12 --> 4102.12
+hair
+
+4108.799 --> 4112.159
+it's called hasa
+
+4117.199 --> 4119.839
+okay
+
+4141.839 --> 4145.799
+oh borders but yeah
+
+4146.08 --> 4149.92
+they want to pale it up don't they
+
+4151.759 --> 4156.159
+oh anyway that's in ways that is
+
+4154.08 --> 4158.48
+everywhere though like india is also
+
+4156.159 --> 4161.719
+doing that
+
+4158.48 --> 4161.718999999999
+it's just
+
+4165.44 --> 4169.919999999999
+yeah
+
+4166.88 --> 4172.799
+it's kind of it sounds weird it's racist
+
+4169.92 --> 4173.759
+but it's racist towards their own
+
+4172.799 --> 4176.88
+it's
+
+4173.759 --> 4180.839
+like ah you're not pale enough
+
+4176.88 --> 4180.839
+you not noble skin
+
+4220.64 --> 4224.2390000000005
+right but you have to realize though
+
+4222.4 --> 4226.639999999999
+that there's been a thing like
+
+4224.239 --> 4230.718999999999
+especially in east asia
+
+4226.64 --> 4231.679
+like japan too and korea i think and
+
+4230.719 --> 4233.6
+china
+
+4231.679 --> 4235.1990000000005
+where
+
+4233.6 --> 4239.280000000001
+it's like this
+
+4235.199 --> 4242.08
+this porcelain ideal right
+
+4239.28 --> 4244.5599999999995
+where they like put like geishas for
+
+4242.08 --> 4246.32
+example they're putting up like super
+
+4244.56 --> 4249.84
+white makeup
+
+4246.32 --> 4252.799999999999
+like super white like like a porcelain
+
+4249.84 --> 4257.12
+figurine right
+
+4252.8 --> 4258.400000000001
+so that's oh that is it is really asian
+
+4257.12 --> 4262.64
+to do that
+
+4258.4 --> 4262.639999999999
+like in their roots they have that thing
+
+4264.48 --> 4270.159
+i mean maybe in one form or another that
+
+4266.8 --> 4273.76
+has also existed like in
+
+4270.159 --> 4276.0
+in like western europe here and there
+
+4273.76 --> 4280.320000000001
+but
+
+4276.0 --> 4280.32
+yeah there's not a lot left of that
+
+4281.92 --> 4287.76
+so
+
+4283.52 --> 4290.64
+like shamed into multiculturalism now
+
+4287.76 --> 4291.4400000000005
+i can't believe there's like really pale
+
+4290.64 --> 4293.92
+like
+
+4291.44 --> 4295.919999999999
+white and
+
+4293.92 --> 4297.84
+slightly blond-haired naturally
+
+4295.92 --> 4300.8
+blond-haired ladies or something out
+
+4297.84 --> 4302.08
+there and guys that are like oh i'm too
+
+4300.8 --> 4305.12
+pale
+
+4302.08 --> 4308.44
+i don't get that i really don't but it
+
+4305.12 --> 4308.44
+does exist
+
+4320.719 --> 4325.679
+although yeah although like look even
+
+4323.28 --> 4327.36
+being having a pale skin is not always
+
+4325.679 --> 4329.6
+that great
+
+4327.36 --> 4333.199
+right you get more issues with the sun
+
+4329.6 --> 4336.4400000000005
+getting sunburned easier
+
+4333.199 --> 4336.44
+it's different
+
+4343.12 --> 4349.599999999999
+and to be and yeah fair
+
+4346.0 --> 4352.32
+like not all super blonde
+
+4349.6 --> 4354.719
+women are necessarily all very gorgeous
+
+4352.32 --> 4354.719
+looking
+
+4354.84 --> 4359.360000000001
+right
+
+4356.64 --> 4361.360000000001
+just because you're like pale skin or
+
+4359.36 --> 4363.759999999999
+like a natural blonde that doesn't
+
+4361.36 --> 4368.44
+automatically make you a beautiful
+
+4363.76 --> 4368.4400000000005
+person or have a beautiful personality
+
+4372.64 --> 4375.92
+indians in white face
+
+4376.48 --> 4381.5199999999995
+yeah well the aboriginals used to do it
+
+4379.12 --> 4384.88
+like dude there's all kinds of africans
+
+4381.52 --> 4389.360000000001
+that use white face are are we gonna
+
+4384.88 --> 4391.76
+like disrupt like their tribal
+
+4389.36 --> 4393.599999999999
+dances and shin and like how dare you
+
+4391.76 --> 4395.6
+put on white face
+
+4393.6 --> 4397.84
+african men
+
+4395.6 --> 4399.84
+you're appropriating our culture you're
+
+4397.84 --> 4402.08
+trying to shame us by putting on that
+
+4399.84 --> 4404.96
+white paint on your face
+
+4402.08 --> 4404.96
+how dare you
+
+4405.44 --> 4407.759999999999
+i mean
+
+4408.08 --> 4410.48
+yeah
+
+4410.56 --> 4415.360000000001
+see how ridiculous that sounds
+
+4413.12 --> 4416.96
+oh that's how ridiculous it sounds to me
+
+4415.36 --> 4417.839999999999
+when people
+
+4416.96 --> 4419.76
+here
+
+4417.84 --> 4422.97
+start whining about
+
+4419.76 --> 4424.719
+black pete's oh blackface how dare you
+
+4422.97 --> 4429.1990000000005
+[Music]
+
+4424.719 --> 4431.92
+like uh no they're telling a story
+
+4429.199 --> 4434.5599999999995
+it's a reenactment of a story is
+
+4431.92 --> 4436.64
+partially fictional but it's it's the
+
+4434.56 --> 4437.6
+dutch culture
+
+4436.64 --> 4440.320000000001
+and
+
+4437.6 --> 4442.88
+like i there shouldn't be an objection
+
+4440.32 --> 4445.44
+they're not being shamed they're not
+
+4442.88 --> 4448.719
+it's not racist it's ridiculous to think
+
+4445.44 --> 4450.879999999999
+that just as much as it is ridiculous
+
+4448.719 --> 4453.36
+to like complain
+
+4450.88 --> 4455.36
+to some african
+
+4453.36 --> 4457.28
+tribe like that's like old-fashioned
+
+4455.36 --> 4458.5599999999995
+tribe which is pretty cool by the way i
+
+4457.28 --> 4460.4
+think
+
+4458.56 --> 4462.719
+i'm not against like
+
+4460.4 --> 4464.639999999999
+i guess more primitive like even to call
+
+4462.719 --> 4467.52
+it a primitive form of life is already
+
+4464.64 --> 4470.400000000001
+like wrong it's just not
+
+4467.52 --> 4470.400000000001
+urbanite
+
+4471.76 --> 4476.320000000001
+like a more natural old-fashioned
+
+4474.32 --> 4479.28
+it's hard to pinpoint i'm just going to
+
+4476.32 --> 4481.5199999999995
+call it try with like tribesmen there do
+
+4479.28 --> 4483.12
+rituals and they have like put white
+
+4481.52 --> 4485.040000000001
+face on and they do dance around the
+
+4483.12 --> 4486.159
+fire are you gonna complain to them how
+
+4485.04 --> 4488.159
+dare you
+
+4486.159 --> 4491.12
+yeah they've been doing that
+
+4488.159 --> 4492.799999999999
+for countless generations in a tradition
+
+4491.12 --> 4493.679
+oh you're gonna complete you can't do
+
+4492.8 --> 4496.8
+that
+
+4493.679 --> 4498.8
+you put on whiteface you're shaming the
+
+4496.8 --> 4500.56
+white people
+
+4498.8 --> 4502.320000000001
+like what the [ __ ]
+
+4500.56 --> 4505.320000000001
+the [ __ ] are you blabbering about you
+
+4502.32 --> 4505.32
+idiot
+
+4512.8 --> 4517.12
+use the
+
+4514.239 --> 4519.199
+bird poo for that make
+
+4517.12 --> 4522.599999999999
+whatever it takes
+
+4519.199 --> 4522.599999999999
+letter sage
+
+4543.84 --> 4548.6
+what rest dad are you talking about
+
+4563.92 --> 4567.92
+peel skin
+
+4565.52 --> 4569.92
+not being conscious yeah it is an urban
+
+4567.92 --> 4572.8
+thing it is a oh
+
+4569.92 --> 4574.32
+we're better than you you're just dumb
+
+4572.8 --> 4577.2390000000005
+laborers
+
+4574.32 --> 4579.44
+we're smart we know how to do
+
+4577.239 --> 4581.919999999999
+cryptocurrency and
+
+4579.44 --> 4584.4
+squirt over virtue signaling all day
+
+4581.92 --> 4586.64
+long we're the better ones
+
+4584.4 --> 4586.639999999999
+yeah
+
+4587.04 --> 4589.36
+i mean
+
+4589.6 --> 4592.719
+why are you so pale is it because you're
+
+4591.44 --> 4594.5599999999995
+a nobility
+
+4592.719 --> 4596.64
+no it's because you
+
+4594.56 --> 4600.2390000000005
+are too afraid to come out of your mom's
+
+4596.64 --> 4602.719
+basement and squirt over twitter and
+
+4600.239 --> 4605.12
+all day long oh okay
+
+4602.719 --> 4605.12
+all right
+
+4605.199 --> 4611.199
+i'll i'll take
+
+4606.84 --> 4613.360000000001
+a little bit darker tanned skin person
+
+4611.199 --> 4614.879999999999
+that actually does something productive
+
+4613.36 --> 4616.639999999999
+with their life
+
+4614.88 --> 4620.28
+rather than
+
+4616.64 --> 4620.280000000001
+somebody like that
+
+4633.52 --> 4637.1990000000005
+but yeah barges but you're you're
+
+4635.199 --> 4640.32
+correct it is a class thing it is in
+
+4637.199 --> 4643.5199999999995
+india very distinct
+
+4640.32 --> 4645.12
+like what's your skin pale level that
+
+4643.52 --> 4648.84
+matters a lot
+
+4645.12 --> 4648.84
+for the class stuff
+
+4657.44 --> 4660.32
+they're primitive until you find that
+
+4658.88 --> 4661.76
+they can enter your dreams and you find
+
+4660.32 --> 4664.4
+yourself helpless
+
+4661.76 --> 4666.2390000000005
+not really it's just that yeah they do
+
+4664.4 --> 4668.08
+have
+
+4666.239 --> 4669.759999999999
+they remain natural and so their
+
+4668.08 --> 4672.0
+spiritual
+
+4669.76 --> 4675.12
+i guess like interdimensional telepathic
+
+4672.0 --> 4677.679
+abilities are still intact
+
+4675.12 --> 4678.48
+they haven't neglected and wasted them
+
+4677.679 --> 4679.76
+all
+
+4678.48 --> 4681.199
+yeah
+
+4679.76 --> 4682.64
+that's the difference because i
+
+4681.199 --> 4683.599999999999
+understand what you're talking about rig
+
+4682.64 --> 4685.76
+back
+
+4683.6 --> 4687.52
+that's why i'm kind of like stumbling a
+
+4685.76 --> 4690.719
+bit and trying to like describe what
+
+4687.52 --> 4692.88
+that is because i have actually
+
+4690.719 --> 4696.4800000000005
+a lot of respect for like people that
+
+4692.88 --> 4698.0
+would seem to live primitive
+
+4696.48 --> 4701.12
+because
+
+4698.0 --> 4703.28
+they're not just wasting their time
+
+4701.12 --> 4704.5599999999995
+you see they do things with their time
+
+4703.28 --> 4706.4
+they do
+
+4704.56 --> 4709.92
+those types of people do a lot more
+
+4706.4 --> 4709.92
+internal reflecting
+
+4710.159 --> 4715.199
+than a lot of people in the west that
+
+4713.28 --> 4718.84
+don't do a lot of inner reflecting
+
+4715.199 --> 4721.199
+instead just go dwelling information
+
+4718.84 --> 4724.32
+routes right they don't reflect on
+
+4721.199 --> 4727.919999999999
+themselves they let like st information
+
+4724.32 --> 4727.92
+wash over them like a flood
+
+4728.32 --> 4731.599999999999
+right
+
+4729.199 --> 4734.4
+well this primitives that don't have
+
+4731.6 --> 4736.08
+mobile phones and internet they don't do
+
+4734.4 --> 4738.799999999999
+that they're not
+
+4736.08 --> 4739.76
+flooded by information and craziness all
+
+4738.8 --> 4741.360000000001
+the time
+
+4739.76 --> 4743.679
+so they get to like
+
+4741.36 --> 4746.08
+really fine-tune their senses and figure
+
+4743.679 --> 4749.64
+out how things really work even in the
+
+4746.08 --> 4749.64
+spiritual realm
+
+4764.08 --> 4771.12
+that's right right back agreed
+
+4767.04 --> 4771.12
+i mean i learned from that
+
+4771.679 --> 4776.4
+but partially assimilated into my entire
+
+4775.28 --> 4778.639999999999
+existence
+
+4776.4 --> 4781.04
+learning from that
+
+4778.64 --> 4784.320000000001
+because when i first met
+
+4781.04 --> 4787.12
+people like that when i was younger
+
+4784.32 --> 4789.28
+i was just immediately jealous
+
+4787.12 --> 4793.12
+and like
+
+4789.28 --> 4795.12
+damn you actually got stuff that matters
+
+4793.12 --> 4798.08
+i want that
+
+4795.12 --> 4798.08
+and they'll be like
+
+4798.159 --> 4801.04
+yeah
+
+4799.28 --> 4803.599999999999
+but you're
+
+4801.04 --> 4805.5199999999995
+already integrated in the beast you grew
+
+4803.6 --> 4806.639
+up in that like you can't be like that
+
+4805.52 --> 4810.0
+and i'm like
+
+4806.639 --> 4813.4400000000005
+but i can literally just
+
+4810.0 --> 4815.76
+choose to be like that
+
+4813.44 --> 4817.759999999999
+and kind of throw society away i'll
+
+4815.76 --> 4820.08
+still be in there
+
+4817.76 --> 4824.400000000001
+but i'm not going to
+
+4820.08 --> 4827.04
+optimize myself to society's standards
+
+4824.4 --> 4828.5599999999995
+i'm going to optimize myself to my own
+
+4827.04 --> 4832.84
+standards
+
+4828.56 --> 4832.84
+and try to follow your example
+
+4834.48 --> 4838.32
+i don't know if i actually had a literal
+
+4836.48 --> 4839.678999999999
+conversation like that at some point but
+
+4838.32 --> 4843.799999999999
+that is
+
+4839.679 --> 4843.8
+those are things that have happened
+
+4848.639 --> 4853.6
+i have come across some really spiritual
+
+4851.28 --> 4853.599999999999
+people
+
+4855.36 --> 4859.599999999999
+especially like when i was really young
+
+4857.199 --> 4861.678999999999
+and my parents would seek them out it
+
+4859.6 --> 4862.400000000001
+was like spiritual discovery journey
+
+4861.679 --> 4864.639
+thing
+
+4862.4 --> 4867.12
+kind of hippie-ish but still very
+
+4864.639 --> 4867.12
+serious
+
+4869.92 --> 4872.92
+hmm
+
+4882.56 --> 4888.400000000001
+right but it is really about what i just
+
+4885.199 --> 4891.759999999999
+laid down kind of on the run
+
+4888.4 --> 4893.759999999999
+it's about not adapting to society's
+
+4891.76 --> 4895.92
+standards
+
+4893.76 --> 4898.0
+but to your own standards
+
+4895.92 --> 4900.159
+because the society is going to try to
+
+4898.0 --> 4902.4
+pull you out of whack
+
+4900.159 --> 4905.44
+so that you lose grip over yourself and
+
+4902.4 --> 4908.0
+then instead just try to uphold that
+
+4905.44 --> 4908.0
+standard
+
+4908.96 --> 4915.6
+i distinctly don't do that it's like oh
+
+4913.28 --> 4917.04
+i'm in a situation people are going to
+
+4915.6 --> 4918.4800000000005
+tell me oh this and this is going to
+
+4917.04 --> 4919.5199999999995
+happen i'm like
+
+4918.48 --> 4921.5199999999995
+no
+
+4919.52 --> 4922.4800000000005
+and everybody's like all flustered like
+
+4921.52 --> 4923.6
+uh
+
+4922.48 --> 4925.919999999999
+what
+
+4923.6 --> 4927.6
+you're not supposed to say no
+
+4925.92 --> 4929.679
+you're supposed to be like yeah yeah
+
+4927.6 --> 4933.280000000001
+yeah and i'm like no
+
+4929.679 --> 4936.0
+no i don't actually believe that
+
+4933.28 --> 4939.199
+i'm bracing against it but i'm not
+
+4936.0 --> 4939.199
+afraid i'm just
+
+4939.44 --> 4944.759999999999
+i'm not i'm not buying into that
+
+4951.76 --> 4956.2390000000005
+the autopilot
+
+4953.6 --> 4959.120000000001
+society standard
+
+4956.239 --> 4962.5599999999995
+anyway hey dan's dancing field
+
+4959.12 --> 4962.5599999999995
+arson lannister
+
+4963.36 --> 4972.199
+oh god i think we've got a derp alert
+
+4967.6 --> 4972.1990000000005
+yes earth is really flat
+
+4988.88 --> 4992.32
+yeah it is
+
+4991.199 --> 4995.44
+how
+
+4992.32 --> 4997.759999999999
+the horizon's not geometric in
+
+4995.44 --> 5000.638999999999
+comport doesn't comport
+
+4997.76 --> 5004.4800000000005
+with the spherical geometry claimed by
+
+5000.639 --> 5004.4800000000005
+the globe earth model believers
+
+5005.76 --> 5010.320000000001
+in black swan we can see too far at low
+
+5008.48 --> 5011.599999999999
+observation height
+
+5010.32 --> 5013.759999999999
+one foot
+
+5011.6 --> 5015.120000000001
+high over the ocean
+
+5013.76 --> 5019.92
+seeing
+
+5015.12 --> 5022.4
+coastline 11 kilometers or more away
+
+5019.92 --> 5025.04
+that's impossible if the earth was a
+
+5022.4 --> 5028.239
+sphere because then all that sight would
+
+5025.04 --> 5029.36
+have been completely blocked by the
+
+5028.239 --> 5032.0
+ocean
+
+5029.36 --> 5034.0
+which would be geometrically in between
+
+5032.0 --> 5035.199
+the observer
+
+5034.0 --> 5038.08
+and
+
+5035.199 --> 5040.239
+that beach line 11 miles away because
+
+5038.08 --> 5041.199
+the observer height is one
+
+5040.239 --> 5044.4
+foot
+
+5041.199 --> 5044.4
+above water level
+
+5044.8 --> 5049.92
+on a sphere earth it would be
+
+5046.96 --> 5051.44
+absolutely impossible no matter the
+
+5049.92 --> 5054.4
+conditions
+
+5051.44 --> 5057.12
+to be able to see the coastline
+
+5054.4 --> 5058.08
+11 miles away when the observation
+
+5057.12 --> 5060.0
+height
+
+5058.08 --> 5061.84
+is one foot
+
+5060.0 --> 5065.679
+that's physically
+
+5061.84 --> 5067.6
+geometrically impossible black swan
+
+5065.679 --> 5069.6
+the earth is not
+
+5067.6 --> 5072.92
+that globe
+
+5069.6 --> 5072.92
+it's flat
+
+5089.84 --> 5092.56
+yeah it's called the black swan argument
+
+5091.84 --> 5095.1990000000005
+it's
+
+5092.56 --> 5096.639
+a historical reference
+
+5095.199 --> 5100.4
+to a time
+
+5096.639 --> 5103.04
+when a club of rich people
+
+5100.4 --> 5104.0
+were doing a bet and one person said
+
+5103.04 --> 5106.48
+look
+
+5104.0 --> 5108.239
+see all these ones they're all white
+
+5106.48 --> 5110.0
+that means
+
+5108.239 --> 5113.36
+all swans are white
+
+5110.0 --> 5117.199
+see because they're all white
+
+5113.36 --> 5118.799999999999
+and somebody disagreed with that notion
+
+5117.199 --> 5120.96
+because he heard like yeah but there
+
+5118.8 --> 5125.04
+might be others it's ones that aren't
+
+5120.96 --> 5127.92
+white like way down south
+
+5125.04 --> 5129.28
+so the other person who didn't like the
+
+5127.92 --> 5132.32
+first person that was kind of an
+
+5129.28 --> 5133.679
+arrogant ass saying all swans were white
+
+5132.32 --> 5136.0
+he was like oh yeah i'm gonna find a
+
+5133.679 --> 5137.92
+black swan so he went around the world
+
+5136.0 --> 5141.679
+and guess what yeah there were a whole
+
+5137.92 --> 5144.2390000000005
+race of black swans
+
+5141.679 --> 5146.8
+so he he took one with him
+
+5144.239 --> 5146.799999999999
+probably
+
+5147.04 --> 5151.6
+right he and then he presented it to him
+
+5149.52 --> 5152.96
+look see dude
+
+5151.6 --> 5155.280000000001
+smart ass
+
+5152.96 --> 5157.12
+see a black swan
+
+5155.28 --> 5158.0
+and there's a whole bunch more of them
+
+5157.12 --> 5161.12
+yeah
+
+5158.0 --> 5163.199
+not all swans are wise okay
+
+5161.12 --> 5164.96
+you're wrong you're incorrect here's a
+
+5163.199 --> 5166.0
+black one
+
+5164.96 --> 5166.84
+that's
+
+5166.0 --> 5170.719
+the
+
+5166.84 --> 5170.719
+historical scenario
+
+5170.8 --> 5177.28
+that the black swan argument references
+
+5173.36 --> 5177.28
+the only modus tollens
+
+5177.44 --> 5180.4
+p therefore q
+
+5180.719 --> 5185.44
+oh god i'm not good at this part
+
+5183.6 --> 5189.120000000001
+somebody in chat filming it but it's
+
+5185.44 --> 5191.04
+basically look if there's one exception
+
+5189.12 --> 5194.719
+then you're wrong right if there's one
+
+5191.04 --> 5195.92
+exception to the globe geometry
+
+5194.719 --> 5197.04
+like
+
+5195.92 --> 5200.0
+you would
+
+5197.04 --> 5200.0
+be able to see
+
+5200.239 --> 5205.36
+at one foot observation height something
+
+5203.04 --> 5208.32
+that's 11 miles away
+
+5205.36 --> 5211.199
+if if that happens just once that means
+
+5208.32 --> 5214.0
+it's not that globe modus tollens
+
+5211.199 --> 5215.199
+black swan see there's an exception it's
+
+5214.0 --> 5217.6
+over
+
+5215.199 --> 5220.159
+the idea that the earth was a globe is
+
+5217.6 --> 5221.4400000000005
+immediately disproven by that one
+
+5220.159 --> 5223.759999999999
+observation
+
+5221.44 --> 5225.678999999999
+one foot high
+
+5223.76 --> 5228.639
+11 miles away
+
+5225.679 --> 5231.21
+it's done the earth is not a globe
+
+5228.639 --> 5234.96
+black swan
+
+5231.21 --> 5237.76
+[Music]
+
+5234.96 --> 5240.8
+dude if if that's not enough for you i
+
+5237.76 --> 5242.639
+mean i can't explain anything more about
+
+5240.8 --> 5244.159000000001
+if that's not enough for you i'm gonna
+
+5242.639 --> 5247.76
+kick you out because that means you're
+
+5244.159 --> 5250.5599999999995
+like a 70 iq [ __ ]
+
+5247.76 --> 5253.1990000000005
+i mean i literally described it verbatim
+
+5250.56 --> 5255.280000000001
+every aspect
+
+5253.199 --> 5258.799999999999
+every aspect there is nothing more to
+
+5255.28 --> 5259.759999999999
+explain if you don't understand that
+
+5258.8 --> 5265.400000000001
+then
+
+5259.76 --> 5265.400000000001
+just [ __ ] off to some clown house okay
+
+5272.88 --> 5275.76
+yeah he's a troll
+
+5278.639 --> 5281.84
+bye bye
+
+5293.12 --> 5299.249
+my god it's this nonsense
+
+5296.17 --> 5299.249
+[Music]
+
+5299.679 --> 5304.2390000000005
+gravity has no effect on water
+
+5302.48 --> 5306.0
+what the [ __ ] are you talking about
+
+5304.239 --> 5309.4
+what's gravity
+
+5306.0 --> 5309.4
+it doesn't exist
+
+5317.52 --> 5323.280000000001
+we wouldn't breathe
+
+5319.6 --> 5325.4400000000005
+water if hydrogen was being forced down
+
+5323.28 --> 5328.159
+we would only breathe what the [ __ ] are
+
+5325.44 --> 5331.36
+you talking about dude
+
+5328.159 --> 5334.36
+what the hell have you been
+
+5331.36 --> 5334.36
+sniffing
+
+5340.159 --> 5344.239
+are you like on
+
+5341.92 --> 5348.92
+nitrous oxide or something
+
+5344.239 --> 5348.919999999999
+the [ __ ] are you blabbering about dude
+
+5353.36 --> 5359.08
+did i see next level yes i did smart
+
+5356.08 --> 5359.08
+corbeau
+
+5382.0 --> 5387.28
+what did i think i reviewed it i i gave
+
+5385.12 --> 5389.679
+a review at the start of my show i'm not
+
+5387.28 --> 5391.599999999999
+gonna do it again
+
+5389.679 --> 5396.08
+if you want to hear my opinions on it
+
+5391.6 --> 5396.08
+then just watch the show from the start
+
+5398.96 --> 5402.08
+just finished it all right
+
+5405.6 --> 5408.400000000001
+i mean
+
+5406.48 --> 5410.32
+let me summarize it
+
+5408.4 --> 5413.04
+it's fine
+
+5410.32 --> 5416.0
+but there are the typical things that
+
+5413.04 --> 5417.84
+are just wrong in there
+
+5416.0 --> 5420.8
+ether
+
+5417.84 --> 5422.8
+sun position reification
+
+5420.8 --> 5424.8
+but that's pretty much it i mean it's
+
+5422.8 --> 5427.28
+kind of embarrassing
+
+5424.8 --> 5429.360000000001
+but still if you don't know about that
+
+5427.28 --> 5431.36
+necessarily yeah it's a pretty cool
+
+5429.36 --> 5434.4
+movie it's okay it's it's good for
+
+5431.36 --> 5437.44
+newcomers fine
+
+5434.4 --> 5440.0
+but it's not the end-all be-all it's not
+
+5437.44 --> 5443.638999999999
+like the best thing ever
+
+5440.0 --> 5443.639
+that's pretty cool
+
+5459.199 --> 5465.36
+what the hell
+
+5461.76 --> 5465.360000000001
+are you talking about right back
+
+5471.92 --> 5479.4400000000005
+talking about a guest on jim bob i think
+
+5474.48 --> 5479.44
+i missed his show not sure if i saw it
+
+5480.639 --> 5485.1990000000005
+he made next level
+
+5482.639 --> 5485.1990000000005
+okay
+
+5485.6 --> 5489.320000000001
+was he in it too
+
+5501.76 --> 5508.579000000001
+right all right
+
+5505.17 --> 5508.579
+[Music]
+
+5512.4 --> 5519.239
+ah the guy with the black bear right
+
+5515.12 --> 5519.239
+yeah he was in it a lot
+
+5522.56 --> 5525.92
+i have no idea who that guy is
+
+5525.199 --> 5528.919999999999
+but
+
+5525.92 --> 5528.92
+sure
+
+5543.199 --> 5546.4
+they
+
+5544.159 --> 5547.44
+the trouble with using the black swan
+
+5546.4 --> 5549.5199999999995
+logic
+
+5547.44 --> 5551.839999999999
+to make a point is that the opposition
+
+5549.52 --> 5553.92
+only needs one picture that backs up
+
+5551.84 --> 5556.08
+their claim to negate the whole thing no
+
+5553.92 --> 5559.4800000000005
+no that's
+
+5556.08 --> 5559.48
+that's wrong
+
+5560.32 --> 5565.12
+now that's
+
+5562.56 --> 5567.1990000000005
+that's incorrect
+
+5565.12 --> 5569.679
+it's a one-way street
+
+5567.199 --> 5569.678999999999
+they know
+
+5570.08 --> 5574.96
+yeah they
+
+5571.76 --> 5577.12
+they globe believers can show us
+
+5574.96 --> 5579.84
+pictures where it seems oh look the
+
+5577.12 --> 5581.679
+thing is behind the horizon now
+
+5579.84 --> 5583.679
+that means it's a globe after all yeah
+
+5581.679 --> 5586.4800000000005
+that doesn't work that way
+
+5583.679 --> 5590.0
+it's a one-way statement
+
+5586.48 --> 5591.839999999999
+one exception it's over
+
+5590.0 --> 5593.6
+that doesn't mean oh here's here's a
+
+5591.84 --> 5595.679
+white swan again right so it means
+
+5593.6 --> 5600.1990000000005
+they're all white again no no there was
+
+5595.679 --> 5600.1990000000005
+the black swan it's done it's over
+
+5604.56 --> 5609.92
+right you showing pictures would that
+
+5606.96 --> 5610.639
+suggest that it's going to curved after
+
+5609.92 --> 5612.4800000000005
+all
+
+5610.639 --> 5615.36
+it doesn't work
+
+5612.48 --> 5617.44
+because the exceptions already there
+
+5615.36 --> 5619.599999999999
+there are sites that are geometrically
+
+5617.44 --> 5622.5599999999995
+impossible if the earth were a globe
+
+5619.6 --> 5625.4400000000005
+they exist so it's over
+
+5622.56 --> 5627.76
+earth not a globe
+
+5625.44 --> 5631.0
+you can show all the apparent curvature
+
+5627.76 --> 5631.0
+you like
+
+5631.28 --> 5638.32
+it's it doesn't matter anymore
+
+5634.96 --> 5638.32
+because there is an exception
+
+5641.92 --> 5647.12
+you cancel your rook fin after owen
+
+5644.4 --> 5650.0
+all right yeah well keep keep following
+
+5647.12 --> 5653.84
+owen he's still talking about it
+
+5650.0 --> 5653.84
+i mean it's not entirely over yet
+
+5654.719 --> 5659.04
+but yeah i'm not gonna sign on to
+
+5656.8 --> 5661.04
+rockpin
+
+5659.04 --> 5662.88
+i didn't really plan to i never liked
+
+5661.04 --> 5667.12
+the feel of it you see
+
+5662.88 --> 5667.12
+and that's just like an armenian feel
+
+5667.36 --> 5670.96
+it's like yeah rock from this rock from
+
+5669.04 --> 5673.199
+that and i'm like
+
+5670.96 --> 5674.32
+i don't like the way people
+
+5673.199 --> 5676.159
+praise it
+
+5674.32 --> 5678.4
+it's just there's something weird in the
+
+5676.159 --> 5679.759999999999
+tone of how they talk about it and it
+
+5678.4 --> 5682.719
+just like
+
+5679.76 --> 5682.719
+i just don't like it
+
+5683.119 --> 5689.599999999999
+i just don't like it
+
+5686.96 --> 5691.84
+and yeah the whole rockfin situation
+
+5689.6 --> 5694.400000000001
+with owen benjamin and
+
+5691.84 --> 5694.400000000001
+martin
+
+5696.08 --> 5700.159
+from rockfin and all that it's it was
+
+5698.08 --> 5702.159
+hilarious by the way it is very
+
+5700.159 --> 5704.0
+hilarious to
+
+5702.159 --> 5706.879999999999
+listen to everything he has to say about
+
+5704.0 --> 5706.88
+that situation
+
+5707.44 --> 5713.28
+but that certainly like pinned down that
+
+5710.719 --> 5715.679
+weird feeling that i had like i don't
+
+5713.28 --> 5718.719
+want to engage with this and now i kind
+
+5715.679 --> 5720.639
+of have some empirical feedback as to
+
+5718.719 --> 5723.04
+why
+
+5720.639 --> 5726.56
+it's like oh so that's why i
+
+5723.04 --> 5728.96
+don't really want to get in there
+
+5726.56 --> 5730.320000000001
+because if they're gonna nag owen about
+
+5728.96 --> 5731.92
+that
+
+5730.32 --> 5733.5199999999995
+then there's a chance that they're gonna
+
+5731.92 --> 5736.2390000000005
+nag me
+
+5733.52 --> 5737.080000000001
+right because i have
+
+5736.239 --> 5740.799999999999
+like
+
+5737.08 --> 5743.8
+counter-narrative views
+
+5740.8 --> 5743.8
+right
+
+5747.44 --> 5752.239
+i mean that's
+
+5748.96 --> 5757.2390000000005
+kind of established now
+
+5752.239 --> 5757.239
+i take it i hope that you paid attention
+
+5758.4 --> 5761.04
+so yeah
+
+5761.52 --> 5767.76
+i'm still surprised that i'm just here
+
+5763.92 --> 5772.4800000000005
+on youtube and it's just old whatever
+
+5767.76 --> 5772.4800000000005
+i'm free i can do whatever i want
+
+5774.32 --> 5779.84
+don't seem to get strikes for it
+
+5777.76 --> 5781.76
+right there's people literally in chat
+
+5779.84 --> 5784.0
+sometimes like oh don't talk about this
+
+5781.76 --> 5786.159000000001
+you'll get kicked off and i literally
+
+5784.0 --> 5788.0
+say it like with glee
+
+5786.159 --> 5789.759999999999
+and like
+
+5788.0 --> 5792.08
+i'm literally just saying it i'm
+
+5789.76 --> 5794.0
+literally saying it right now
+
+5792.08 --> 5795.84
+and i'm not gonna get a strike for it
+
+5794.0 --> 5797.119
+and there's nothing you can do about it
+
+5795.84 --> 5799.4400000000005
+guess what
+
+5797.119 --> 5801.36
+yeah i didn't get a strike for it every
+
+5799.44 --> 5802.239
+time i done that now
+
+5801.36 --> 5804.799999999999
+so
+
+5802.239 --> 5808.718999999999
+whatever's going on
+
+5804.8 --> 5808.719
+like i don't have to worry
+
+5809.52 --> 5813.92
+i don't know if i'll get the same
+
+5812.8 --> 5816.400000000001
+deal
+
+5813.92 --> 5819.36
+however it was established when i go on
+
+5816.4 --> 5819.36
+another platform
+
+5820.159 --> 5824.0
+who's to say they're going to give me
+
+5821.76 --> 5825.84
+that same type of space
+
+5824.0 --> 5828.639
+maybe martin's going to give me calls
+
+5825.84 --> 5832.719
+and like er in the way you talked about
+
+5828.639 --> 5834.639
+like oh you want people to go aggressive
+
+5832.719 --> 5836.8
+and like violently overthrow the
+
+5834.639 --> 5839.679
+government and like oh we can't tolerate
+
+5836.8 --> 5842.719
+that and i'm like um
+
+5839.679 --> 5842.719
+see what happens
+
+5842.96 --> 5846.32
+yeah
+
+5844.48 --> 5848.638999999999
+i mean
+
+5846.32 --> 5850.96
+if he's gonna complain about owen
+
+5848.639 --> 5853.4400000000005
+benjamin making a joke about shaq eating
+
+5850.96 --> 5855.6
+a banana
+
+5853.44 --> 5857.44
+i mean come on
+
+5855.6 --> 5859.360000000001
+if that's a problem then he's gonna have
+
+5857.44 --> 5861.5199999999995
+a problem with me
+
+5859.36 --> 5864.32
+talking the way that i do expressing
+
+5861.52 --> 5866.56
+like the inevitable
+
+5864.32 --> 5869.119
+rage that will well up
+
+5866.56 --> 5871.76
+and make people like lay down
+
+5869.119 --> 5873.759999999999
+their refined senses for civilization
+
+5871.76 --> 5876.88
+and spring into
+
+5873.76 --> 5880.08
+intuitive action to do what's necessary
+
+5876.88 --> 5883.6
+and get it over with no matter the cost
+
+5880.08 --> 5888.08
+right i bet martin wouldn't like that if
+
+5883.6 --> 5888.08
+i talked like that on rockfin
+
+5890.03 --> 5896.32
+[Music]
+
+5893.04 --> 5898.48
+and i bet a whole bunch of other guys
+
+5896.32 --> 5901.44
+in the flat earth
+
+5898.48 --> 5903.839999999999
+don't like it that i do that either
+
+5901.44 --> 5906.32
+right you don't like it you don't talk
+
+5903.84 --> 5907.76
+to me about it you don't say hey arwen
+
+5906.32 --> 5911.84
+you know
+
+5907.76 --> 5911.84
+we don't really like this part
+
+5912.639 --> 5917.76
+i don't get feedback i don't know i
+
+5915.36 --> 5920.239
+don't know what the what they think
+
+5917.76 --> 5920.2390000000005
+about it
+
+5920.32 --> 5926.32
+i have very little feedback
+
+5923.28 --> 5928.4
+from other people as to what they think
+
+5926.32 --> 5929.28
+about what i do
+
+5928.4 --> 5930.5599999999995
+very
+
+5929.28 --> 5932.48
+very
+
+5930.56 --> 5935.119000000001
+little feedback
+
+5932.48 --> 5937.839999999999
+yeah i get more feedback
+
+5935.119 --> 5939.839999999999
+from trolls than i do from fellow flat
+
+5937.84 --> 5941.6
+earthers about my ideas
+
+5939.84 --> 5944.0
+that's why i kind of have to force
+
+5941.6 --> 5946.719
+myself into and just put it down like
+
+5944.0 --> 5948.32
+little on the spot painting like hello
+
+5946.719 --> 5949.679
+this is the only way i can get you to
+
+5948.32 --> 5953.28
+look hello
+
+5949.679 --> 5956.719
+yeah i have to be a conspiracy theorist
+
+5953.28 --> 5959.04
+within a conspiracy theory community
+
+5956.719 --> 5961.36
+i have to be that guy again
+
+5959.04 --> 5963.76
+because people just
+
+5961.36 --> 5963.759999999999
+they're not
+
+5964.8 --> 5969.28
+they don't
+
+5966.48 --> 5971.599999999999
+they're not connecting
+
+5969.28 --> 5972.96
+i mean you guys in chat are connecting
+
+5971.6 --> 5976.719
+right because you're a part of my
+
+5972.96 --> 5976.719
+workshop you're part of the chats
+
+5977.52 --> 5980.88
+but like other
+
+5978.96 --> 5982.56
+creators
+
+5980.88 --> 5985.6
+i'm not getting
+
+5982.56 --> 5985.6
+direct feedback
+
+5986.08 --> 5992.84
+i get some feedback from nathan i get
+
+5989.119 --> 5994.719
+some feedback from the guys on the panel
+
+5992.84 --> 5998.4800000000005
+sometimes
+
+5994.719 --> 6001.92
+and not all that great a feedback even
+
+5998.48 --> 6001.919999999999
+as in effective
+
+6002.32 --> 6007.199
+i mean you guys give me more effective
+
+6004.4 --> 6009.119
+feedback than
+
+6007.199 --> 6012.799999999999
+than any of the flat earthers that are
+
+6009.119 --> 6014.96
+having their own channels on average
+
+6012.8 --> 6018.0
+because i don't know what they think
+
+6014.96 --> 6020.719
+about me i don't know
+
+6018.0 --> 6022.719
+do they think i'm secretly an infiltrate
+
+6020.719 --> 6024.719
+ready to take over
+
+6022.719 --> 6026.719
+and ruin it all
+
+6024.719 --> 6028.56
+do they think that well if they do
+
+6026.719 --> 6030.4
+they're not telling me
+
+6028.56 --> 6032.88
+they're not sharing their worries or
+
+6030.4 --> 6036.159
+anything they're not telling me anything
+
+6032.88 --> 6038.4800000000005
+seriously they don't talk to me
+
+6036.159 --> 6040.799999999999
+i literally have to do everything on my
+
+6038.48 --> 6042.5599999999995
+own divination
+
+6040.8 --> 6044.719
+i have to guess what they're thinking
+
+6042.56 --> 6050.52
+and i'm doing my best to get it right
+
+6044.719 --> 6050.52
+because they're not giving me feedback
+
+6072.08 --> 6076.08
+oh [ __ ] classical homeopath
+
+6074.719 --> 6078.0
+you're triggered when i call for
+
+6076.08 --> 6081.119
+violence
+
+6078.0 --> 6084.56
+can you can you elaborate how exactly
+
+6081.119 --> 6087.5599999999995
+you're triggered what causes the anxiety
+
+6084.56 --> 6087.56
+specifically
+
+6095.04 --> 6099.199
+oh god i think we got a derp alert
+
+6100.239 --> 6106.44
+i think it's
+
+6102.4 --> 6106.44
+another sean sock
+
+6106.88 --> 6112.56
+what do eclipses happen if the earth
+
+6108.96 --> 6112.56
+isn't a boy between the sun
+
+6117.199 --> 6121.719
+oh
+
+6118.0 --> 6121.719
+it never ends
+
+6134.08 --> 6141.84
+it is the values of our democracy to
+
+6137.36 --> 6141.839999999999
+remain non-violent it's who we are
+
+6145.6 --> 6149.360000000001
+okay
+
+6146.8 --> 6151.4400000000005
+that's cool and in general a classical
+
+6149.36 --> 6153.759999999999
+homeopath i'd agree with you if it were
+
+6151.44 --> 6157.28
+not that
+
+6153.76 --> 6158.08
+if i have to choose in being non-violent
+
+6157.28 --> 6161.04
+but
+
+6158.08 --> 6162.4
+as i am non-violent and i adapt
+
+6161.04 --> 6165.92
+perfectly
+
+6162.4 --> 6169.04
+i see everything that i love
+
+6165.92 --> 6170.4800000000005
+slowly disappearing degenerating
+
+6169.04 --> 6172.239
+people's souls
+
+6170.48 --> 6175.759999999999
+slowly seeping away becoming
+
+6172.239 --> 6178.4
+unrecognizable unnatural no longer fed
+
+6175.76 --> 6179.84
+by the spirit of god if i see that
+
+6178.4 --> 6181.679
+slowly happening around me and
+
+6179.84 --> 6183.1990000000005
+effectively see the entire world getting
+
+6181.679 --> 6184.08
+tortured
+
+6183.199 --> 6187.36
+to
+
+6184.08 --> 6189.76
+vacancy and death
+
+6187.36 --> 6192.32
+well
+
+6189.76 --> 6196.08
+i don't really like that non-violence
+
+6192.32 --> 6198.719
+thing anymore then yeah cause
+
+6196.08 --> 6200.8
+i don't want to feel responsible for
+
+6198.719 --> 6204.08
+letting all that [ __ ] happen just
+
+6200.8 --> 6206.96
+because i have to be non-violent
+
+6204.08 --> 6208.88
+sounds like a contract in hell
+
+6206.96 --> 6211.199
+to me
+
+6208.88 --> 6211.1990000000005
+yeah
+
+6211.28 --> 6213.5199999999995
+so
+
+6215.04 --> 6220.08
+i vote to end
+
+6217.36 --> 6220.08
+the malice
+
+6220.32 --> 6226.4
+yeah if we're gonna be democratic about
+
+6222.239 --> 6230.0
+it well then i i choose the other way
+
+6226.4 --> 6230.0
+i vote to end the malice
+
+6230.32 --> 6235.44
+i vote to put a stop to the people that
+
+6234.0 --> 6238.08
+are
+
+6235.44 --> 6240.0
+noticeably overtly
+
+6238.08 --> 6241.6
+demonic and out of control and
+
+6240.0 --> 6243.52
+unrepentant
+
+6241.6 --> 6246.400000000001
+about it
+
+6243.52 --> 6249.92
+i vote that they be
+
+6246.4 --> 6249.92
+basically criminalized
+
+6253.52 --> 6257.92
+effectively
+
+6255.6 --> 6257.92
+right
+
+6259.199 --> 6263.5199999999995
+that that doesn't make any sense by the
+
+6260.96 --> 6265.92
+way no i retract that criminalized no
+
+6263.52 --> 6265.92
+it's just
+
+6267.92 --> 6272.0
+maybe sub-societal right
+
+6270.32 --> 6273.92
+i really think that just the only thing
+
+6272.0 --> 6275.84
+that's really work is that just people
+
+6273.92 --> 6277.36
+just show them like
+
+6275.84 --> 6280.8
+this it's over
+
+6277.36 --> 6282.159
+you're we will not allow you to do that
+
+6280.8 --> 6286.08
+anymore
+
+6282.159 --> 6288.879999999999
+and [ __ ] the [ __ ] loss that you hide
+
+6286.08 --> 6290.96
+under we're not going to allow you to do
+
+6288.88 --> 6293.1990000000005
+it anymore now
+
+6290.96 --> 6293.199
+yeah
+
+6293.28 --> 6299.96
+you will not have your demonic freedom
+
+6296.96 --> 6299.96
+anymore
+
+6302.719 --> 6305.76
+yeah
+
+6304.0 --> 6307.679
+so yeah you could
+
+6305.76 --> 6310.159000000001
+convince yourself in all kinds of way
+
+6307.679 --> 6311.28
+that you have the right to do that
+
+6310.159 --> 6312.799999999999
+but
+
+6311.28 --> 6313.679
+yeah
+
+6312.8 --> 6315.76
+we
+
+6313.679 --> 6318.0
+the rest of the people
+
+6315.76 --> 6320.159000000001
+will grow more and more impatient and
+
+6318.0 --> 6323.44
+those that still hold on
+
+6320.159 --> 6324.5599999999995
+to what is right will eventually come to
+
+6323.44 --> 6328.159
+the point
+
+6324.56 --> 6330.2390000000005
+where we will decide to not let you do
+
+6328.159 --> 6331.199
+that anymore
+
+6330.239 --> 6334.08
+yeah
+
+6331.199 --> 6335.599999999999
+pretty much no matter the pretense or
+
+6334.08 --> 6338.48
+cost
+
+6335.6 --> 6341.1990000000005
+it's just going to be over
+
+6338.48 --> 6345.08
+and that is part of the essence
+
+6341.199 --> 6345.08
+that i try to express
+
+6345.679 --> 6352.2390000000005
+you don't have unlimited demonic freedom
+
+6349.84 --> 6355.679
+there is a counterbalance
+
+6352.239 --> 6357.199
+counterbalance is the vengeance
+
+6355.679 --> 6360.719
+of god
+
+6357.199 --> 6360.719
+through other people
+
+6363.679 --> 6367.36
+yeah
+
+6364.96 --> 6369.28
+and even theoretically it's not going to
+
+6367.36 --> 6371.5199999999995
+happen but even theoretically if you
+
+6369.28 --> 6373.759999999999
+could route that out of everybody and
+
+6371.52 --> 6377.52
+everything guess what's gonna happen
+
+6373.76 --> 6379.119000000001
+that vengeance of god through the people
+
+6377.52 --> 6382.0
+will arrive
+
+6379.119 --> 6385.36
+through some of you
+
+6382.0 --> 6387.52
+it's gonna come it's going to end you
+
+6385.36 --> 6390.08
+and there's nothing
+
+6387.52 --> 6392.080000000001
+nothing in creation
+
+6390.08 --> 6395.04
+in the physical world or in the
+
+6392.08 --> 6398.239
+spiritual realm that can stop that
+
+6395.04 --> 6401.199
+inevitable thing from happening
+
+6398.239 --> 6402.5599999999995
+you understand there's nothing you can
+
+6401.199 --> 6405.04
+do
+
+6402.56 --> 6406.96
+nothing you can do to stop that
+
+6405.04 --> 6411.04
+no matter how much you destroy and
+
+6406.96 --> 6414.0
+derange and distract it will happen and
+
+6411.04 --> 6415.44
+if you're the only person left in the
+
+6414.0 --> 6419.36
+world
+
+6415.44 --> 6422.4
+then that spirit will come through you
+
+6419.36 --> 6426.5599999999995
+and you will end yourself
+
+6422.4 --> 6429.36
+because there is nothing in creation
+
+6426.56 --> 6431.76
+that can stop that from happening
+
+6429.36 --> 6432.96
+and i'd like to remind everybody about
+
+6431.76 --> 6434.96
+that
+
+6432.96 --> 6438.32
+especially those people that think you
+
+6434.96 --> 6440.0
+have unlimited domain demonic freedom
+
+6438.32 --> 6442.4
+you don't
+
+6440.0 --> 6443.84
+and there's nothing you can do
+
+6442.4 --> 6448.28
+to stop
+
+6443.84 --> 6448.28
+that end from coming
+
+6451.77 --> 6455.069
+[Music]
+
+6464.159 --> 6467.36
+man our time has flown
+
+6468.88 --> 6471.84
+nobody's listening
+
+6474.4 --> 6480.48
+maybe classical homeopath is
+
+6477.04 --> 6480.48
+crying in a corner again
+
+6480.88 --> 6486.2390000000005
+i yeah i know you were being sarcastic
+
+6483.04 --> 6486.239
+but i'm playing into it
+
+6491.6 --> 6496.2390000000005
+it's almost i'm almost hoping that a
+
+6493.92 --> 6499.52
+squirt boy is gonna pop up and actually
+
+6496.239 --> 6501.759999999999
+try to resist that for real
+
+6499.52 --> 6504.96
+but
+
+6501.76 --> 6504.96
+it's not going to happen
+
+6508.32 --> 6513.84
+no no no let's go home but it's fine
+
+6510.56 --> 6513.84
+don't worry about it hey
+
+6514.32 --> 6516.88
+lsg
+
+6519.6 --> 6523.96
+you just sent me a video
+
+6525.29 --> 6531.319
+[Music]
+
+6538.84 --> 6545.04
+uh oh okay he's sending me a whole bunch
+
+6542.239 --> 6545.04
+of videos now
+
+6545.28 --> 6549.599999999999
+through skype but yeah i'm gonna stick
+
+6546.96 --> 6549.6
+to the show
+
+6552.08 --> 6559.28
+no i learned and then so it was a huge
+
+6554.56 --> 6559.280000000001
+scam no flat earth is a scam
+
+6559.36 --> 6564.96
+it's a scam it's such a scam that we
+
+6562.0 --> 6566.96
+constantly tell you exactly with
+
+6564.96 --> 6569.119
+academic detail
+
+6566.96 --> 6571.44
+how the earth is in the globe and can't
+
+6569.119 --> 6573.92
+be a globe and how all the trains of
+
+6571.44 --> 6575.598999999999
+thinking that lead to you
+
+6573.92 --> 6578.08
+being convinced that the earth is a
+
+6575.599 --> 6580.88
+globe are all false
+
+6578.08 --> 6582.8
+to a fine detail yeah that's a scam all
+
+6580.88 --> 6585.04
+right
+
+6582.8 --> 6587.92
+oh we're such a scam we're a scam
+
+6585.04 --> 6588.8
+pointing out exactly with fine detail
+
+6587.92 --> 6589.84
+and
+
+6588.8 --> 6592.2390000000005
+huge
+
+6589.84 --> 6595.4400000000005
+amounts of feedback
+
+6592.239 --> 6597.04
+based on empirical evidence and academic
+
+6595.44 --> 6599.44
+research and
+
+6597.04 --> 6601.92
+insight and logic itself yeah that's a
+
+6599.44 --> 6604.638999999999
+scam that we do that pointing out how
+
+6601.92 --> 6606.719
+the earth is not a globe i'm sure it is
+
+6604.639 --> 6608.8
+i mean
+
+6606.719 --> 6611.84
+maybe
+
+6608.8 --> 6611.84
+you're a scammer
+
+6612.08 --> 6617.5199999999995
+and you don't like how we're breaking
+
+6615.28 --> 6623.199
+this spell
+
+6617.52 --> 6624.8
+that you so gladly use for your scamming
+
+6623.199 --> 6628.839999999999
+shane vendrel
+
+6624.8 --> 6628.84
+have you ever thought about that
+
+6650.719 --> 6655.76
+basic observation what basic observation
+
+6653.52 --> 6657.84
+of lights in the sky having specific
+
+6655.76 --> 6659.4400000000005
+angular relations that change over
+
+6657.84 --> 6663.4400000000005
+distance
+
+6659.44 --> 6665.44
+oh no no i just explained it it's stars
+
+6663.44 --> 6668.5599999999995
+they have angles yeah
+
+6665.44 --> 6672.638999999999
+what they don't have however is a
+
+6668.56 --> 6675.4400000000005
+spherical earth underneath
+
+6672.639 --> 6678.84
+that directly correlate
+
+6675.44 --> 6681.36
+in lockstep with this apparent
+
+6678.84 --> 6682.96
+demisphere of stars
+
+6681.36 --> 6686.08
+that seem
+
+6682.96 --> 6688.4
+visible around us yeah
+
+6686.08 --> 6690.96
+yeah there's addressing of your basic
+
+6688.4 --> 6690.96
+arguments
+
+6692.84 --> 6698.32
+oh why aren't flights from south africa
+
+6696.159 --> 6700.96
+to australia the longest flights well
+
+6698.32 --> 6704.32
+why would they be
+
+6700.96 --> 6704.32
+i don't think the earth is a disc
+
+6705.84 --> 6710.96
+it's just another map projection
+
+6708.719 --> 6713.52
+i think the most accurate
+
+6710.96 --> 6715.76
+to date representation of the terrain
+
+6713.52 --> 6718.320000000001
+would be a rectangular map
+
+6715.76 --> 6721.76
+it is the map that is widely used for
+
+6718.32 --> 6723.759999999999
+like the basis of all things relating
+
+6721.76 --> 6726.159000000001
+to mapping
+
+6723.76 --> 6727.119000000001
+and like technology and radio and
+
+6726.159 --> 6730.159
+everything
+
+6727.119 --> 6733.199
+they use a rectangular map
+
+6730.159 --> 6733.199
+so why would
+
+6733.599 --> 6737.84
+the flights from south america to
+
+6735.92 --> 6740.159
+australia be longer
+
+6737.84 --> 6741.52
+i don't see the necessity of that that's
+
+6740.159 --> 6743.759999999999
+only
+
+6741.52 --> 6746.0
+people that insist
+
+6743.76 --> 6748.400000000001
+that the map is the terrain when they
+
+6746.0 --> 6749.44
+look at the disk
+
+6748.4 --> 6753.119
+map
+
+6749.44 --> 6753.119
+i'm not one of those people
+
+6761.28 --> 6766.0
+no mark stout george is not a bot maybe
+
+6764.239 --> 6769.799999999999
+he just doesn't give a [ __ ] about what
+
+6766.0 --> 6769.8
+you're talking about
+
+6781.84 --> 6785.28
+what
+
+6782.8 --> 6790.360000000001
+that's that's just a lie
+
+6785.28 --> 6790.36
+colin dude get the [ __ ] out of here
+
+6793.36 --> 6798.719
+you're gonna start out
+
+6795.44 --> 6800.5599999999995
+if the first thing you say upon entry is
+
+6798.719 --> 6802.8
+a straight out lie
+
+6800.56 --> 6803.76
+that just means you're immediately
+
+6802.8 --> 6805.92
+banned
+
+6803.76 --> 6808.2390000000005
+if that's how you start that means
+
+6805.92 --> 6812.96
+instant ban instant if you're going to
+
+6808.239 --> 6812.959999999999
+start out with a blatant overt lie
+
+6813.119 --> 6816.799999999999
+banned i don't care who you are what you
+
+6815.36 --> 6818.48
+believe in
+
+6816.8 --> 6821.4800000000005
+start out with the straight line you're
+
+6818.48 --> 6821.48
+banned
+
+6821.92 --> 6825.84
+now if you have questions about
+
+6823.76 --> 6827.84
+something that's something else if you
+
+6825.84 --> 6832.76
+start out with a straight out lie you're
+
+6827.84 --> 6832.76
+bad i don't care what you believe in
+
+6838.159 --> 6843.839999999999
+you literally see birds disappearing
+
+6840.96 --> 6846.88
+bottom up over the horizon
+
+6843.84 --> 6849.119000000001
+now they disappear into the horizon
+
+6846.88 --> 6851.28
+and the diffraction limit causes you not
+
+6849.119 --> 6854.159
+to be able to see
+
+6851.28 --> 6855.36
+the bottom part of it yeah and the
+
+6854.159 --> 6857.119
+amount
+
+6855.36 --> 6859.5199999999995
+that the bottom part is getting
+
+6857.119 --> 6862.4
+obstructed over a distance
+
+6859.52 --> 6864.159000000001
+is a linear rate
+
+6862.4 --> 6866.638999999999
+not
+
+6864.159 --> 6870.48
+an exponential rate which would be
+
+6866.639 --> 6872.2390000000005
+required on a globe geometry yeah no no
+
+6870.48 --> 6874.718999999999
+instead
+
+6872.239 --> 6877.598999999999
+things disappear
+
+6874.719 --> 6878.96
+behind things
+
+6877.599 --> 6880.400000000001
+the bottom
+
+6878.96 --> 6882.08
+yeah
+
+6880.4 --> 6883.679
+the amount
+
+6882.08 --> 6885.48
+that is hidden
+
+6883.679 --> 6887.28
+increases at a
+
+6885.48 --> 6888.239
+linear
+
+6887.28 --> 6890.639
+rate
+
+6888.239 --> 6892.5599999999995
+over distance
+
+6890.639 --> 6893.76
+linear rate
+
+6892.56 --> 6895.76
+not
+
+6893.76 --> 6898.4800000000005
+an exponential rate
+
+6895.76 --> 6900.96
+which means it's flat
+
+6898.48 --> 6904.239
+so however this horizon
+
+6900.96 --> 6906.08
+seems to obstruct things it does so at a
+
+6904.239 --> 6908.638999999999
+linear rate
+
+6906.08 --> 6911.92
+not an exponential rate which it would
+
+6908.639 --> 6914.0
+be a dead-on necessity
+
+6911.92 --> 6916.08
+if it was being obstructed by globe
+
+6914.0 --> 6918.27
+geometry
+
+6916.08 --> 6920.159
+and it isn't
+
+6918.27 --> 6923.84
+[Music]
+
+6920.159 --> 6926.5599999999995
+right but i'm gonna run out the show now
+
+6923.84 --> 6928.8
+so thanks everyone for coming
+
+6926.56 --> 6930.96
+hope you like the show if you did then
+
+6928.8 --> 6932.96
+please don't forget to rogan's it up and
+
+6930.96 --> 6935.119
+if you haven't already subscribe to my
+
+6932.96 --> 6937.119
+channel and hit the bell notification so
+
+6935.119 --> 6938.96
+you know when i'm going live which is
+
+6937.119 --> 6941.119
+normally 1 p.m amsterdam time in the
+
+6938.96 --> 6942.08
+weekdays and 2 p.m amsterdam time in the
+
+6941.119 --> 6944.32
+weekend
+
+6942.08 --> 6946.5599999999995
+please also do support me through the
+
+6944.32 --> 6948.5599999999995
+paypal patreon super chat and membership
+
+6946.56 --> 6951.1990000000005
+system join button they'll be much
+
+6948.56 --> 6952.88
+appreciated and can definitely always
+
+6951.199 --> 6955.5199999999995
+use it
+
+6952.88 --> 6960.08
+i do need it so please do keep the
+
+6955.52 --> 6960.96
+support coming keep your local arwen fed
+
+6960.08 --> 6962.639
+right
+
+6960.96 --> 6964.8
+i'll be back tomorrow flat earth early
+
+6962.639 --> 6966.639
+bird number 1236
+
+6964.8 --> 6968.639
+on a saturday
+
+6966.639 --> 6970.8
+hope to see you all there 2 pm amsterdam
+
+6968.639 --> 6972.2390000000005
+time and i'm also of course gonna join
+
+6970.8 --> 6975.679
+the flat earth debates i think it
+
+6972.239 --> 6978.08
+already started up over at nathan oakley
+
+6975.679 --> 6980.719
+1980 channel
+
+6978.08 --> 6982.08
+hope to see you all there in chat
+
+6980.719 --> 6983.92
+oh
+
+6982.08 --> 6986.32
+did he go too far now
+
+6983.92 --> 6986.32
+tear it
+
+6986.4 --> 6990.5599999999995
+oh yeah yeah that yeah
+
+6988.48 --> 6992.32
+okay i'm not gonna reprimand you for
+
+6990.56 --> 6993.84
+doing that yeah terry
+
+6992.32 --> 6996.5599999999995
+you should have been i would have banned
+
+6993.84 --> 6998.32
+him what what a dick it's just a
+
+6996.56 --> 7002.400000000001
+straight out dick
+
+6998.32 --> 7004.799999999999
+right anyway good call
+
+7002.4 --> 7006.799999999999
+uh yeah
+
+7004.8 --> 7011.31
+right hope to see you there in chat and
+
+7006.8 --> 7042.609
+until the next video keep it flat
+
+7011.31 --> 7042.609
+[Music]
+
+7056.56 --> 7058.639
+you
+

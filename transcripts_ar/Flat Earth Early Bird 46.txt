@@ -1,0 +1,626 @@
+Video URL: https://www.youtube.com/watch?v=eIXjCAbOjKA
+
+10.82 --> 14.71
+good morning
+
+16.59 --> 23.65
+this is flatter the earlybird number 46
+
+19.99 --> 28.15
+i I'm your host
+
+23.65 --> 29.14
+Arwen yeah and it's not exactly what I
+
+28.15 --> 39.25
+expected
+
+29.14 --> 42.13
+what happened see yep somehow the
+
+39.25 --> 50.53
+streaming function of OBS is not routed
+
+42.13 --> 52.78
+into the actual hangout odd and
+
+50.53 --> 57.19
+apparently my audio also seems to be a
+
+52.78 --> 68.5
+bit low this is better
+
+57.19 --> 71.25
+probably but let me try out settings
+
+68.5 --> 71.25
+really quickly
+
+96.719 --> 109.24
+okay it's just great yeah by the way I
+
+106.75 --> 117.57900000000001
+for some reason I can't turn on my
+
+109.24 --> 120.03899999999999
+camera so it says actually in the Google
+
+117.579 --> 125.49
+hangout itself where I'm also present
+
+120.039 --> 125.49
+that it is on well obviously it's not
+
+126.569 --> 135.88
+you know what let me try something else
+
+130.03 --> 140.769
+I'm just gonna present my OBS I'm right
+
+135.88 --> 146.47
+there's no secure she it should be
+
+140.769 --> 154.20000000000002
+hiding but anyway this was what I was
+
+146.47 --> 159.48
+going to show you but yeah even if I
+
+154.2 --> 169.66
+yeah I even says I am streaming here but
+
+159.48 --> 172.62
+no towards the right thingy probably got
+
+169.66 --> 172.62
+something wrong here
+
+175.98 --> 188.85999999999999
+so yeah well that was probably bound to
+
+182.53 --> 193.74
+happen I should have done a live test
+
+188.86 --> 193.74
+before never got to it
+
+213.989 --> 221.4
+mm so yeah what do I do now
+
+267.0 --> 269.75
+all right
+
+272.37 --> 280.33
+yeah sorry guys I am trying to figure
+
+277.719 --> 283.419
+out some of the technicalities now that
+
+280.33 --> 287.31899999999996
+like in OBS its stop streaming I have
+
+283.419 --> 291.12
+more options in settings so I'm looking
+
+287.319 --> 291.12
+if there's something I've missed
+
+294.16 --> 297.319
+[Music]
+
+303.54 --> 310.11
+the key seems to be right and everything
+
+307.28 --> 316.10999999999996
+can't really find anything out of the
+
+310.11 --> 323.07
+ordinary I don't know why why it didn't
+
+316.11 --> 329.82
+just stream through the OBS yeah I know
+
+323.07 --> 337.49
+you guys can hear me but you can't see
+
+329.82 --> 337.49
+me you can only see my icon so ray
+
+338.65 --> 341.82
+[Music]
+
+366.12 --> 372.66
+yep well that completely killed the
+
+369.82 --> 372.65999999999997
+start of my show
+
+386.51 --> 394.21999999999997
+yeah here for now I got the whole scenes
+
+389.96 --> 397.46
+and sources completely set up quite
+
+394.22 --> 400.94000000000005
+dynamic for a starter that's not the
+
+397.46 --> 404.41999999999996
+problem the problem is that when I say
+
+400.94 --> 408.14
+in the controls over to the right start
+
+404.42 --> 412.51
+streaming nothing happens so what I did
+
+408.14 --> 415.43
+instead is just start to broadcast on
+
+412.51 --> 418.15999999999997
+the Google Hangouts in the hopes that
+
+415.43 --> 419.75
+maybe that would start it it didn't it
+
+418.16 --> 424.52000000000004
+just started it from the perspective
+
+419.75 --> 433.97
+Google Hangouts says has frozen by the
+
+424.52 --> 447.77
+way present this again so at least you
+
+433.97 --> 451.97
+could see something see three the live
+
+447.77 --> 453.53
+chat but yeah start screaming stop
+
+451.97 --> 456.26000000000005
+streaming it doesn't really seem to
+
+453.53 --> 459.71
+matter there is output so it's not like
+
+456.26 --> 462.68
+there's something broken but it's not
+
+459.71 --> 465.08
+being directed forward to Google
+
+462.68 --> 469.69
+Hangouts for some reason even though in
+
+465.08 --> 476.51
+the settings everything is set
+
+469.69 --> 480.92
+accordingly and I think even weirder
+
+476.51 --> 484.36
+I haven't tempered with it and on my try
+
+480.92 --> 487.91
+out like three months ago or something
+
+484.36 --> 491.05
+it did actually work and now it doesn't
+
+487.91 --> 491.05
+I don't get it
+
+493.55 --> 496.619
+[Music]
+
+500.559 --> 510.069
+by the way it is a really beautiful
+
+504.329 --> 512.919
+beautiful day here very clear of clouds
+
+510.069 --> 516.839
+here and there but when the Sun comes
+
+512.919 --> 520.659
+from behind them and really bright
+
+516.839 --> 526.24
+winter some very beautiful very
+
+520.659 --> 537.22
+refreshing ones wind still so that's
+
+526.24 --> 539.61
+also nice not what flat ball that is
+
+537.22 --> 539.61
+weird
+
+541.35 --> 547.839
+three hours and try again well let's
+
+545.949 --> 555.639
+just say if I can't get it to work
+
+547.839 --> 558.72
+during this show then I will I will
+
+555.639 --> 562.45
+absolutely try again later in the day I
+
+558.72 --> 565.35
+don't have anything special to do anyway
+
+562.45 --> 569.759
+[Music]
+
+565.35 --> 569.759
+so yeah I guess
+
+586.71 --> 596.6
+so at least you can see something so
+
+597.32 --> 601.0100000000001
+what can I do
+
+609.05 --> 617.1999999999999
+would be good if if Adam was here but
+
+613.46 --> 619.85
+considering late night stream yesterday
+
+617.2 --> 622.13
+which it was a bit of a part of as well
+
+619.85 --> 625.13
+although not very active so I wasn't
+
+622.13 --> 647.66
+kind of tired he's probably still asleep
+
+625.13 --> 649.4
+so hey Randy see you 1:01 rockhound I'm
+
+647.66 --> 655.93
+strapping up with you here anymore
+
+649.4 --> 655.93
+Daniel field John Watson flat ball
+
+656.62 --> 672.92
+sounds memetics Randy then Winfield and
+
+664.0 --> 679.46
+believable productions here for now yeah
+
+672.92 --> 684.76
+how are you guys doing I hope you like
+
+679.46 --> 684.76
+my my fractal screen here
+
+690.17 --> 710.3399999999999
+so let's see yeah here's my monologue
+
+703.89 --> 716.22
+screen yay still with the chat and yeah
+
+710.34 --> 723.39
+all this possible output here good bring
+
+716.22 --> 725.19
+in a Skype hello oh yeah the head the
+
+723.39 --> 728.34
+Hangout is presenting itself so that's
+
+725.19 --> 730.83
+gonna create that loop of course camera
+
+728.34 --> 737.21
+feed yes
+
+730.83 --> 737.21
+Skype and this is the background picture
+
+737.63 --> 745.38
+it's like yeah visualization of the
+
+743.28 --> 748.1999999999999
+rectangular looping earth without
+
+745.38 --> 750.78
+knowing what is beyond the north and the
+
+748.2 --> 757.1600000000001
+south so considering it is looping
+
+750.78 --> 757.16
+directly in that sense anyway
+
+762.86 --> 766.52
+I'll just put it
+
+823.0 --> 832.3
+right here for now well I tried to start
+
+828.189 --> 835.8389999999999
+the stream here but yeah nothing
+
+832.3 --> 841.0889999999999
+responded like the the Hangout didn't
+
+835.839 --> 845.6990000000001
+start up like I tried for him I think
+
+841.089 --> 849.7900000000001
+for over a minute nothing happened and
+
+845.699 --> 854.5
+then so I decided okay Oh either I could
+
+849.79 --> 856.24
+be very very late or I can just start it
+
+854.5 --> 860.31
+through here maybe I did something wrong
+
+856.24 --> 863.05
+it was basically improvising
+
+860.31 --> 869.29
+prioritizing started English starting
+
+863.05 --> 873.3389999999999
+the show in time so that have resulted
+
+869.29 --> 876.31
+in me now not really being able to fix
+
+873.339 --> 880.6800000000001
+the situation properly but there you go
+
+876.31 --> 880.68
+that's how it happened
+
+909.43 --> 926.78
+hmm
+
+910.97 --> 932.9
+oh dear yeah Ellen be the actor yeah
+
+926.78 --> 940.79
+apparently you can get quite evil at
+
+932.9 --> 942.8299999999999
+times and he can't uphold this gentleman
+
+940.79 --> 946.99
+like attitude when that happens
+
+942.83 --> 950.0500000000001
+apparently and yeah thus he will
+
+946.99 --> 954.59
+completely fall out like a demon
+
+950.05 --> 957.3499999999999
+apparently like I've seen that to a
+
+954.59 --> 962.0
+certain level happening when he gets
+
+957.35 --> 964.1
+like really benign but maybe yeah I did
+
+962.0 --> 967.52
+go a lot further I still haven't seen it
+
+964.1 --> 976.0400000000001
+I still haven't gotten that example on a
+
+967.52 --> 979.5699999999999
+talk what yeah we'll find out i I'd see
+
+976.04 --> 979.5699999999999
+him being able to do that
+
+1011.71 --> 1019.089
+right okay thanks for the info here for
+
+1015.43 --> 1022.029
+now I'm currently just presenting screen
+
+1019.089 --> 1025.569
+and hitting basically directly
+
+1022.029 --> 1028.839
+presenting the OBS screen so yeah it is
+
+1025.569 --> 1033.25
+jumbled and my video is probably gonna
+
+1028.839 --> 1036.9099999999999
+be later than my audio because the audio
+
+1033.25 --> 1040.74
+has the direct input to the Google
+
+1036.91 --> 1040.74
+Hangouts not just OBS
+
+1040.849 --> 1043.9289999999999
+[Music]
+
+1052.02 --> 1058.7
+I don't know maybe maybe the key changed
+
+1056.27 --> 1061.82
+maybe that is it
+
+1058.7 --> 1066.0
+maybe the the YouTube my YouTube key
+
+1061.82 --> 1069.299
+changed and it still program with the
+
+1066.0 --> 1071.01
+old key I should probably check that but
+
+1069.299 --> 1074.6299999999999
+yeah you can do that voila
+
+1071.01 --> 1074.6299999999999
+well I'm streaming so
+
+1090.65 --> 1102.71
+um no some semitic sounds mimetics i'm
+
+1098.15 --> 1108.8000000000002
+not gonna show you my computer in my
+
+1102.71 --> 1112.3400000000001
+browser and everything and I'm
+
+1108.8 --> 1113.8
+definitely not gonna show my my Google
+
+1112.34 --> 1117.85
+code
+
+1113.8 --> 1117.85
+my stream coating
+
+1122.67 --> 1125.809
+[Music]
+
+1128.269 --> 1138.45
+okay right so letters early-bird maybe a
+
+1134.19 --> 1142.009
+little yeah 46 maybe a little bit messy
+
+1138.45 --> 1146.97
+but I'm considering cutting this
+
+1142.009 --> 1149.429
+specific hangout short and then trying
+
+1146.97 --> 1154.799
+to see if I can very quickly get that
+
+1149.429 --> 1158.0900000000001
+code right and then start streaming from
+
+1154.799 --> 1161.37
+the OBS platform see if that works and
+
+1158.09 --> 1163.289
+if it doesn't work then yeah I guess
+
+1161.37 --> 1166.11
+that the rest of the Flat Earth
+
+1163.289 --> 1171.24
+early-bird show may be canceled for
+
+1166.11 --> 1179.33
+today and I will figure it out and just
+
+1171.24 --> 1179.33
+start properly again tomorrow so
+
+1194.51 --> 1197.3799999999999
+all right
+
+1208.29 --> 1214.74
+yeah anyway just give them their more
+
+1213.99 --> 1218.45
+content
+
+1214.74 --> 1222.0
+yeah be hangout yesterday evening night
+
+1218.45 --> 1227.75
+was funny was out of nowhere and was
+
+1222.0 --> 1232.59
+kind of interesting and funny and
+
+1227.75 --> 1235.65
+surprisingly flat earth debate ish I
+
+1232.59 --> 1240.6599999999999
+guess that's what you get when you put
+
+1235.65 --> 1244.02
+these guys together it just starts to
+
+1240.66 --> 1249.74
+happen automatically they yeah they
+
+1244.02 --> 1249.74
+really felt like it and I was amusing
+
+1253.52 --> 1269.48
+but yeah after that I got pretty tired
+
+1257.25 --> 1274.38
+so City watching Netflix again so yeah I
+
+1269.48 --> 1277.3700000000001
+think I will round out this potentially
+
+1274.38 --> 1283.3700000000001
+first part maybe only part of the
+
+1277.37 --> 1286.4399999999998
+flattered early-bird 46 show and
+
+1283.37 --> 1290.79
+whatever happens I will at least be on
+
+1286.44 --> 1296.3700000000001
+the flat earth debates in 40 minutes
+
+1290.79 --> 1302.01
+roughly from now and maybe in my attempt
+
+1296.37 --> 1305.4299999999998
+to yet to start up through OBS will
+
+1302.01 --> 1309.36
+succeed within half win if within the
+
+1305.43 --> 1312.45
+half hour and then I will see you on the
+
+1309.36 --> 1313.9799999999998
+second half so in the meantime if you're
+
+1312.45 --> 1318.78
+seeing this please don't forget to
+
+1313.98 --> 1322.17
+subscribe to my channel and uploaded the
+
+1318.78 --> 1324.87
+video if you like this obvious format
+
+1322.17 --> 1329.0700000000002
+thingy that I made that I will try to
+
+1324.87 --> 1331.59
+stream from from now on maybe update a
+
+1329.07 --> 1335.76
+little bit more on the road and try to
+
+1331.59 --> 1340.04
+get that intro right and well until the
+
+1335.76 --> 1340.04
+next video keep it
+
