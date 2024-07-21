@@ -90,7 +90,7 @@ def process_urls_to_text(val):
         return f'https://{val}'
 
 # Define the function to process files in batches
-def process_files_in_batches(folder_path, keyword, batch_size=100):
+def process_files_in_batches(folder_path, keyword, batch_size=20):
     results = []
     text_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
     total_files = len(text_files)
@@ -130,7 +130,7 @@ def submit_text():
     else:
         return jsonify({"message": "Invalid option selected", "table": ""}), 400
 
-    all_data = process_files_in_batches(folder_path, keyword, batch_size=100)
+    all_data = process_files_in_batches(folder_path, keyword, batch_size=20)
 
     if all_data:
         df = pd.DataFrame(all_data, columns=['show_title', 'start_time', 'end_time', 'spoken_sentence', 'video_url'])
